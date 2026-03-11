@@ -2,10 +2,74 @@
   "stats": {
     "commits": 0,
     "pullRequests": 2,
-    "issues": 15,
-    "reviews": 16
+    "issues": 14,
+    "reviews": 19
   },
   "contributions": [
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-03-10",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-03-10",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-03-10",
+      "type": "review"
+    },
+    {
+      "title": "closed issue: Add CODE_OF_CONDUCT.md file",
+      "description": "## Description\nAdd a CODE_OF_CONDUCT.md file to establish community standards and expected behavior.\n\n## Tasks\n- [ ] Create `CODE_OF_CONDUCT.md` at th",
+      "date": "2026-03-10",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/14",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-03-10",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-03-10",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-03-10",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-03-10",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: Feature: Show loading skeleton cards while organisation data is being fetched",
+      "description": "## ✨ Feature Request\n\n### Description\nWhen the page loads, there is a brief moment where the org grid is empty while the data is being loaded. Adding ",
+      "date": "2026-03-10",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/42",
+      "type": "issue"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-03-10",
+      "type": "review"
+    },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
@@ -70,75 +134,7 @@
       "date": "2026-03-09",
       "url": "https://github.com/Chizaram-Igolo/GSoC-Org-Finder-",
       "type": "commit"
-    },
-    {
-      "title": "assigned issue: Feature: Show loading skeleton cards while organisation data is being fetched",
-      "description": "## ✨ Feature Request\n\n### Description\nWhen the page loads, there is a brief moment where the org grid is empty while the data is being loaded. Adding ",
-      "date": "2026-03-09",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/42",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: Accessibility: Add ARIA labels and keyboard navigation support to filter controls",
-      "description": "## ♿ Accessibility Improvement\n\n### Description\nThe filter dropdowns and search input in `index.html` currently lack proper ARIA labels and `role` att",
-      "date": "2026-03-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/43",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: Feature: Add Open Graph and Twitter Card meta tags for better social sharing",
-      "description": "## ✨ Feature Request\n\n### Description\nWhen someone shares the GSoC Org Finder link on Twitter/X, LinkedIn, Discord, or WhatsApp, no preview card is sh",
-      "date": "2026-03-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/27",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: Add CONTRIBUTING.md file",
-      "description": "## Description\nAdd a CONTRIBUTING.md file to help new contributors understand how to contribute to this project.\n\n## Tasks\n- [ ] Create `CONTRIBUTING.",
-      "date": "2026-03-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/13",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-03-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-03-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-03-08",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-03-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: Feature: Add '/' keyboard shortcut to focus the search box",
-      "description": "## ✨ Feature Request\n\n### Description\nMany developer-focused tools (GitHub, Linear, VS Code) use the `/` key as a shortcut to instantly focus the sear",
-      "date": "2026-03-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/26",
-      "type": "issue"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-03-08",
-      "type": "review"
     }
   ],
-  "lastUpdated": "2026-03-10T01:08:31.949Z"
+  "lastUpdated": "2026-03-11T01:09:15.157Z"
 }

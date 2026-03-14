@@ -2,10 +2,30 @@
   "stats": {
     "commits": 0,
     "pullRequests": 0,
-    "issues": 10,
-    "reviews": 29
+    "issues": 11,
+    "reviews": 25
   },
   "contributions": [
+    {
+      "title": "closed issue: Second Mentor missing in Ui",
+      "description": "![Screenshot_2026-03-01-23-45-55-842_com.android.chrome.jpg](https://github.com/user-attachments/assets/6068622d-3ad4-4591-902f-08744c137a96)\n\n",
+      "date": "2026-03-13",
+      "url": "https://github.com/OWASP-BLT/BLT-GSOC/issues/18",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
+      "description": "Code changes",
+      "date": "2026-03-13",
+      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-03-13",
+      "type": "review"
+    },
     {
       "title": "opened issue: Feature Request: Add Mentor Tech Stack / Expertise Tags to BLT Mentor Pool",
       "description": "Problem\nThe current BLT Mentor Pool lists mentors with their name, availability, GitHub, and Slack handle. However, contributors cannot easily determi",
@@ -110,26 +130,7 @@
       "date": "2026-03-10",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/14",
       "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-03-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-03-10",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-03-10",
-      "type": "review"
     }
   ],
-  "lastUpdated": "2026-03-13T01:12:00.270Z"
+  "lastUpdated": "2026-03-14T01:11:29.832Z"
 }

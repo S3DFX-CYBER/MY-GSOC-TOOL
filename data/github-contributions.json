@@ -1,143 +1,142 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 17,
-    "issues": 3,
-    "reviews": 15
+    "pullRequests": 26,
+    "issues": 8,
+    "reviews": 5
   },
   "contributions": [
     {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-Hackathons",
-      "description": "Code changes",
-      "date": "2026-03-27",
-      "url": "https://github.com/S3DFX-CYBER/BLT-Hackathons",
-      "type": "commit"
-    },
-    {
-      "title": "opened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-03-27",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-Pool",
-      "description": "Code changes",
-      "date": "2026-03-27",
-      "url": "https://github.com/S3DFX-CYBER/BLT-Pool",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-Pool",
-      "description": "Code changes",
-      "date": "2026-03-27",
-      "url": "https://github.com/S3DFX-CYBER/BLT-Pool",
-      "type": "commit"
-    },
-    {
-      "title": "opened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-03-27",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-GSOC",
-      "description": "Code changes",
-      "date": "2026-03-27",
-      "url": "https://github.com/S3DFX-CYBER/BLT-GSOC",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-GSOC",
-      "description": "Code changes",
-      "date": "2026-03-27",
-      "url": "https://github.com/S3DFX-CYBER/BLT-GSOC",
-      "type": "commit"
-    },
-    {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-03-27",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "type": "review"
     },
     {
       "title": "merged PR: undefined",
       "description": "Pull request",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "type": "pull_request"
+    },
+    {
+      "title": "closed issue: feat: Add a Contributor Guide Section to the Frontend",
+      "description": "## Feature Request: Contributor Guide Section\n\n### Overview\nAdd a dedicated **Guide Section** to the frontend of the GSoC Org Finder application that ",
+      "date": "2026-03-28",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/65",
+      "type": "issue"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "type": "pull_request"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "opened PR: undefined",
       "description": "Pull request",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "type": "pull_request"
     },
     {
-      "title": "closed PR: undefined",
+      "title": "closed issue: Fix: GFI (Good First Issue) label generation failing in GitHub Actions workflow",
+      "description": "## Summary\n\nThe automated Good First Issue (GFI) generation is failing in the GitHub Actions workflow.\n\n## Context\n\nThis issue was identified and repo",
+      "date": "2026-03-28",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/63",
+      "type": "issue"
+    },
+    {
+      "title": "merged PR: undefined",
       "description": "Pull request",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "type": "pull_request"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-03-28",
+      "type": "pull_request"
+    },
+    {
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-03-28",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-03-28",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-03-26",
+      "date": "2026-03-28",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-03-28",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-03-28",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-03-28",
+      "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-03-28T01:16:07.214Z"
+  "lastUpdated": "2026-03-29T01:25:21.515Z"
 }

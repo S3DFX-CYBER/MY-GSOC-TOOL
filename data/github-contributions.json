@@ -1,147 +1,147 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 15,
-    "issues": 6,
-    "reviews": 4
+    "pullRequests": 17,
+    "issues": 12,
+    "reviews": 6
   },
   "contributions": [
     {
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-04-12",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/angular",
+      "description": "Code changes",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/angular",
+      "type": "commit"
+    },
+    {
+      "title": "labeled issue: Feature: Add a 'Surprise Me!' button that opens a random organization's modal",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nSometimes users don't know what they're looking for — they just want to explore. A **\"Surprise Me!\"** button that ",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/73",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Feature: Encode active filters in the URL so filtered views can be bookmarked and shared",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nRight now, if a user filters by *Python + Security* and wants to share that view with a friend, they have to tell ",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/74",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: UX: Add a friendly empty state when no organizations match the active filters",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nWhen a user applies filters or types a search term that matches zero organizations, the org grid currently just go",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/75",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Feature: Add a PWA web app manifest so the site can be installed on mobile home screens",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nModern browsers allow websites to be \"installed\" on mobile and desktop as a Progressive Web App (PWA). Adding a `m",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/77",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: SEO: Add JSON-LD structured data (schema.org WebApplication) to index.html",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nAdding **JSON-LD structured data** using schema.org vocabulary helps search engines understand what this page is a",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/78",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Update README File",
+      "description": "## Overview\n\nThe README file needs to be updated to ensure it accurately reflects the current state of the project.\n\n## Tasks\n\n- [ ] Review the existi",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/83",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Update README File",
+      "description": "## Overview\n\nThe README file needs to be updated to ensure it accurately reflects the current state of the project.\n\n## Tasks\n\n- [ ] Review the existi",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/83",
+      "type": "issue"
+    },
+    {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
-    },
-    {
-      "title": "closed issue: Feature: Add a 'Copy Link' button next to the Project Ideas URL in the org detail modal",
-      "description": "## 🐣 Good First Issue\n\n### Summary\nThe org detail modal shows each organization's **Project Ideas page link**, but users have to right-click → copy t",
-      "date": "2026-04-11",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/76",
-      "type": "issue"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-11",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "unassigned issue: Feature: Add a 'Copy Link' button next to the Project Ideas URL in the org detail modal",
-      "description": "## 🐣 Good First Issue\n\n### Summary\nThe org detail modal shows each organization's **Project Ideas page link**, but users have to right-click → copy t",
-      "date": "2026-04-11",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/76",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: Feature: Add a 'Copy Link' button next to the Project Ideas URL in the org detail modal",
-      "description": "## 🐣 Good First Issue\n\n### Summary\nThe org detail modal shows each organization's **Project Ideas page link**, but users have to right-click → copy t",
-      "date": "2026-04-11",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/76",
-      "type": "issue"
-    },
-    {
-      "title": "opened issue: OWASP ASI Compliance Roadmap",
-      "description": "Issue",
-      "date": "2026-04-11",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/70",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-04-11",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: feat: Job expiry system + scheduled crawling pipeline for fresh listings",
-      "description": "## Problem\n\nCurrently BLT-Jobs has two gaps:\n\n1. **No job expiry** — listings are never removed, causing the board to \n   accumulate stale jobs over t",
-      "date": "2026-04-10",
-      "url": "https://github.com/OWASP-BLT/BLT-Jobs/issues/67",
-      "type": "issue"
     },
     {
       "title": "merged PR: undefined",
       "description": "Pull request",
-      "date": "2026-04-10",
+      "date": "2026-04-12",
       "type": "pull_request"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-10",
-      "type": "review"
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-10",
-      "type": "review"
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/BLT",
       "description": "Code changes",
-      "date": "2026-04-09",
+      "date": "2026-04-12",
       "url": "https://github.com/S3DFX-CYBER/BLT",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-04-09",
-      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-04-12",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-04-12",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-04-12",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     }
   ],
-  "lastUpdated": "2026-04-12T01:43:02.676Z"
+  "lastUpdated": "2026-04-13T01:47:47.551Z"
 }

@@ -1,141 +1,150 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 9,
-    "issues": 0,
-    "reviews": 15
+    "pullRequests": 11,
+    "issues": 13,
+    "reviews": 8
   },
   "contributions": [
     {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "labeled issue: Timeline does not update automatically after deadline passes",
+      "description": " **Description:**\nThe timeline component on the website is not updating dynamically after key dates pass. Specifically, even after the proposal submis",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/115",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Timeline does not update automatically after deadline passes",
+      "description": " **Description:**\nThe timeline component on the website is not updating dynamically after key dates pass. Specifically, even after the proposal submis",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/115",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Timeline does not update automatically after deadline passes",
+      "description": " **Description:**\nThe timeline component on the website is not updating dynamically after key dates pass. Specifically, even after the proposal submis",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/115",
+      "type": "issue"
+    },
+    {
+      "title": "opened issue: Timeline does not update automatically after deadline passes",
+      "description": " **Description:**\nThe timeline component on the website is not updating dynamically after key dates pass. Specifically, even after the proposal submis",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/115",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Bug: Language filter chips (Python, JavaScript, ML/AI, etc.) are non-functional",
+      "description": "## 🐛 Bug Description\n\nThe language filter chips on the main org discovery page — **Python, JavaScript, TypeScript, C/C++, Java, Rust, Go, Ruby, Haske",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/114",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Bug: Language filter chips (Python, JavaScript, ML/AI, etc.) are non-functional",
+      "description": "## 🐛 Bug Description\n\nThe language filter chips on the main org discovery page — **Python, JavaScript, TypeScript, C/C++, Java, Rust, Go, Ruby, Haske",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/114",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: Bug: Language filter chips (Python, JavaScript, ML/AI, etc.) are non-functional",
+      "description": "## 🐛 Bug Description\n\nThe language filter chips on the main org discovery page — **Python, JavaScript, TypeScript, C/C++, Java, Rust, Go, Ruby, Haske",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/114",
+      "type": "issue"
+    },
+    {
+      "title": "opened issue: Bug: Language filter chips (Python, JavaScript, ML/AI, etc.) are non-functional",
+      "description": "## 🐛 Bug Description\n\nThe language filter chips on the main org discovery page — **Python, JavaScript, TypeScript, C/C++, Java, Rust, Go, Ruby, Haske",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/114",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-29",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-29",
-      "type": "review"
-    },
-    {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-04-29",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-29",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
+      "description": "Code changes",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
+      "description": "Code changes",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
+      "description": "Code changes",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     },
     {
       "title": "opened PR: undefined",
       "description": "Pull request",
-      "date": "2026-04-29",
+      "date": "2026-05-01",
       "type": "pull_request"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-29",
-      "type": "review"
-    },
-    {
-      "title": "reopened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-04-29",
-      "type": "pull_request"
-    },
-    {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-04-29",
-      "type": "pull_request"
-    },
-    {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-04-29",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-Pages",
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-29",
-      "url": "https://github.com/S3DFX-CYBER/BLT-Pages",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-Pages",
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-29",
-      "url": "https://github.com/S3DFX-CYBER/BLT-Pages",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-29",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-29",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-29",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-29",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-04-28",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/BLT-Pages",
+      "title": "Pushed commits to S3DFX-CYBER/oss-fuzz",
       "description": "Code changes",
-      "date": "2026-04-28",
-      "url": "https://github.com/S3DFX-CYBER/BLT-Pages",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/poc-action",
-      "description": "Code changes",
-      "date": "2026-04-28",
-      "url": "https://github.com/S3DFX-CYBER/poc-action",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/poc-workflow",
-      "description": "Code changes",
-      "date": "2026-04-28",
-      "url": "https://github.com/S3DFX-CYBER/poc-workflow",
+      "date": "2026-05-01",
+      "url": "https://github.com/S3DFX-CYBER/oss-fuzz",
       "type": "commit"
     }
   ],
-  "lastUpdated": "2026-05-01T02:03:52.679Z"
+  "lastUpdated": "2026-05-02T01:51:50.219Z"
 }

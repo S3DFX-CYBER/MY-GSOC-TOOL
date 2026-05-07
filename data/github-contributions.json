@@ -1,145 +1,142 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 9,
-    "issues": 39,
-    "reviews": 8
+    "pullRequests": 20,
+    "issues": 30,
+    "reviews": 11
   },
   "contributions": [
     {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-06",
+      "type": "review"
+    },
+    {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "type": "pull_request"
+    },
+    {
+      "title": "closed issue: Feature: Encode active filters in the URL so filtered views can be bookmarked and shared",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nRight now, if a user filters by *Python + Security* and wants to share that view with a friend, they have to tell ",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/74",
+      "type": "issue"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "closed issue: fix: Correct TENET PR Review workflow skip logic when TENET_AI_KEY is missing",
-      "description": "## Problem\n\nThe `Check TENET_AI_KEY is configured` step in `.github/workflows/tenet-pr-review.yml` uses `exit 0` when the secret is missing. This only",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/184",
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-06",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: Feature: Add a keyboard shortcuts help modal (press '?' to open)",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nThe app already supports keyboard navigation (`↑ ↓ ← →`, `Enter`, `C`, `Esc`) but users have no way to discover th",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/70",
       "type": "issue"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-06",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-06",
+      "type": "review"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "type": "pull_request"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "type": "review"
     },
     {
-      "title": "labeled issue: fix: Correct TENET PR Review workflow skip logic when TENET_AI_KEY is missing",
-      "description": "## Problem\n\nThe `Check TENET_AI_KEY is configured` step in `.github/workflows/tenet-pr-review.yml` uses `exit 0` when the secret is missing. This only",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/184",
+      "title": "assigned issue: Bug: Vercel Speed Insights script loads during local development causing console errors",
+      "description": "##  Describe the bug\n\nThe Vercel Speed Insights script is loaded during local development environments as well, causing failed requests and unnecessar",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/200",
       "type": "issue"
     },
     {
-      "title": "assigned issue: fix: Correct TENET PR Review workflow skip logic when TENET_AI_KEY is missing",
-      "description": "## Problem\n\nThe `Check TENET_AI_KEY is configured` step in `.github/workflows/tenet-pr-review.yml` uses `exit 0` when the secret is missing. This only",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/184",
+      "title": "labeled issue: Bug: Vercel Speed Insights script loads during local development causing console errors",
+      "description": "##  Describe the bug\n\nThe Vercel Speed Insights script is loaded during local development environments as well, causing failed requests and unnecessar",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/200",
       "type": "issue"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "labeled issue: Bug: Vercel Speed Insights script loads during local development causing console errors",
+      "description": "##  Describe the bug\n\nThe Vercel Speed Insights script is loaded during local development environments as well, causing failed requests and unnecessar",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/200",
+      "type": "issue"
+    },
+    {
+      "title": "unassigned issue: Bug: Vercel Speed Insights script loads during local development causing console errors",
+      "description": "##  Describe the bug\n\nThe Vercel Speed Insights script is loaded during local development environments as well, causing failed requests and unnecessar",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/200",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/wagtail",
       "description": "Code changes",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/wagtail",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "opened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-05",
-      "type": "pull_request"
-    },
-    {
-      "title": "unassigned issue: fix: Correct TENET PR Review workflow skip logic when TENET_AI_KEY is missing",
-      "description": "## Problem\n\nThe `Check TENET_AI_KEY is configured` step in `.github/workflows/tenet-pr-review.yml` uses `exit 0` when the secret is missing. This only",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/184",
+      "title": "unassigned issue: Feature: Add a keyboard shortcuts help modal (press '?' to open)",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nThe app already supports keyboard navigation (`↑ ↓ ← →`, `Enter`, `C`, `Esc`) but users have no way to discover th",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/70",
       "type": "issue"
     },
     {
-      "title": "assigned issue: Feature: Add a 'Surprise Me!' button that opens a random organization's modal",
-      "description": "## 🐣 Good First Issue\n\n### Summary\nSometimes users don't know what they're looking for — they just want to explore. A **\"Surprise Me!\"** button that ",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/73",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: Feature: Add a 'Surprise Me!' button that opens a random organization's modal",
-      "description": "## 🐣 Good First Issue\n\n### Summary\nSometimes users don't know what they're looking for — they just want to explore. A **\"Surprise Me!\"** button that ",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/73",
-      "type": "issue"
-    },
-    {
-      "title": "unlabeled issue: Feature: Add a 'Surprise Me!' button that opens a random organization's modal",
-      "description": "## 🐣 Good First Issue\n\n### Summary\nSometimes users don't know what they're looking for — they just want to explore. A **\"Surprise Me!\"** button that ",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/73",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: Feature: Add a 'Surprise Me!' button that opens a random organization's modal",
-      "description": "## 🐣 Good First Issue\n\n### Summary\nSometimes users don't know what they're looking for — they just want to explore. A **\"Surprise Me!\"** button that ",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/73",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: Update README File",
-      "description": "## Overview\n\nThe README file needs to be updated to ensure it accurately reflects the current state of the project.\n\n## Tasks\n\n- [ ] Review the existi",
-      "date": "2026-05-05",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/83",
+      "title": "reopened issue: Feature: Add a keyboard shortcuts help modal (press '?' to open)",
+      "description": "## 🐣 Good First Issue\n\n### Summary\nThe app already supports keyboard navigation (`↑ ↓ ← →`, `Enter`, `C`, `Esc`) but users have no way to discover th",
+      "date": "2026-05-06",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/70",
       "type": "issue"
     }
   ],
-  "lastUpdated": "2026-05-06T01:55:21.452Z"
+  "lastUpdated": "2026-05-07T01:59:03.243Z"
 }

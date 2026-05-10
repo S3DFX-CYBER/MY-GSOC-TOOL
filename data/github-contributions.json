@@ -1,144 +1,149 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 17,
+    "pullRequests": 21,
     "issues": 17,
-    "reviews": 5
+    "reviews": 4
   },
   "contributions": [
     {
-      "title": "Pushed commits to VaibhavMP/GSoC-Org-Finder-",
+      "title": "labeled issue: Exclude bots and maintainers from NSoC leaderboard workflow",
+      "description": "## Summary\n\nThe automated NSoC leaderboard workflow currently includes:\n\n- `github-actions[bot]`\n- repository maintainers/admins (e.g. `@S3DFX-CYBER`)",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/236",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled issue: Exclude bots and maintainers from NSoC leaderboard workflow",
+      "description": "## Summary\n\nThe automated NSoC leaderboard workflow currently includes:\n\n- `github-actions[bot]`\n- repository maintainers/admins (e.g. `@S3DFX-CYBER`)",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/236",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: [BUG] unable to star/favorite organizations from the organization cards",
+      "description": "## 🐛 Describe the bug\n\nUsers are unable to star/favorite organizations from the organization cards.\n\nClicking the star icon in the top-right corner o",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/238",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: [BUG] unable to star/favorite organizations from the organization cards",
+      "description": "## 🐛 Describe the bug\n\nUsers are unable to star/favorite organizations from the organization cards.\n\nClicking the star icon in the top-right corner o",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/238",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled issue: [BUG] unable to star/favorite organizations from the organization cards",
+      "description": "## 🐛 Describe the bug\n\nUsers are unable to star/favorite organizations from the organization cards.\n\nClicking the star icon in the top-right corner o",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/238",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: feat: Improve Watchlist UX, Layout, and Insights System",
+      "description": "## ✨ Feature Description\n\nImprove the Watchlist page to become a more interactive and intelligent contributor dashboard instead of a simple saved-orga",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/239",
+      "type": "issue"
+    },
+    {
+      "title": "labeled issue: feat: Improve Watchlist UX, Layout, and Insights System",
+      "description": "## ✨ Feature Description\n\nImprove the Watchlist page to become a more interactive and intelligent contributor dashboard instead of a simple saved-orga",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/239",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled issue: feat: Improve Watchlist UX, Layout, and Insights System",
+      "description": "## ✨ Feature Description\n\nImprove the Watchlist page to become a more interactive and intelligent contributor dashboard instead of a simple saved-orga",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/239",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/BLT-Preflight",
       "description": "Code changes",
-      "date": "2026-05-08",
-      "url": "https://github.com/VaibhavMP/GSoC-Org-Finder-",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/BLT-Preflight",
       "type": "commit"
-    },
-    {
-      "title": "Pushed commits to VaibhavMP/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-08",
-      "url": "https://github.com/VaibhavMP/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to VaibhavMP/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-08",
-      "url": "https://github.com/VaibhavMP/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-08",
-      "type": "pull_request"
-    },
-    {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-08",
-      "type": "pull_request"
-    },
-    {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-08",
-      "type": "pull_request"
-    },
-    {
-      "title": "assigned issue: # [Feature]: Interactive GSoC Knowledge Graph Visualization",
-      "description": "\n\n### 🚀 Feature Description\nThe current grid and list views are fantastic for fast searching and filtering. However, to help users truly explore the ",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/137",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: [BUG] Navbar active state does not update on page navigation",
-      "description": "## 🐛 Describe the bug\nThe navigation bar keeps the \"Organizations\" tab highlighted as active even after navigating to other pages like Guide, Watchli",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/219",
-      "type": "issue"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-05-08",
-      "type": "review"
-    },
-    {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-08",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: test",
-      "description": "Issue",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/222",
-      "type": "issue"
-    },
-    {
-      "title": "opened issue: test",
-      "description": "Issue",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/222",
-      "type": "issue"
-    },
-    {
-      "title": "unlabeled issue: [BUG] Navbar active state does not update on page navigation",
-      "description": "## 🐛 Describe the bug\nThe navigation bar keeps the \"Organizations\" tab highlighted as active even after navigating to other pages like Guide, Watchli",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/219",
-      "type": "issue"
     },
     {
       "title": "opened PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "Pushed commits to S3DFX-CYBER/BLT-Preflight",
       "description": "Code changes",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/BLT-Preflight",
       "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/BLT-Preflight",
+      "description": "Code changes",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/BLT-Preflight",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/BLT-Preflight",
+      "description": "Code changes",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/BLT-Preflight",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/BLT-Preflight",
+      "description": "Code changes",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/BLT-Preflight",
+      "type": "commit"
+    },
+    {
+      "title": "labeled issue: feat: Improve Watchlist UX, Layout, and Insights System",
+      "description": "## ✨ Feature Description\n\nImprove the Watchlist page to become a more interactive and intelligent contributor dashboard instead of a simple saved-orga",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/239",
+      "type": "issue"
+    },
+    {
+      "title": "opened issue: feat: Improve Watchlist UX, Layout, and Insights System",
+      "description": "## ✨ Feature Description\n\nImprove the Watchlist page to become a more interactive and intelligent contributor dashboard instead of a simple saved-orga",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/239",
+      "type": "issue"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "type": "review"
     },
     {
-      "title": "labeled issue: [BUG] Navbar active state does not update on page navigation",
-      "description": "## 🐛 Describe the bug\nThe navigation bar keeps the \"Organizations\" tab highlighted as active even after navigating to other pages like Guide, Watchli",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/219",
+      "title": "labeled issue: [BUG] unable to star/favorite organizations from the organization cards",
+      "description": "## 🐛 Describe the bug\n\nUsers are unable to star/favorite organizations from the organization cards.\n\nClicking the star icon in the top-right corner o",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/238",
       "type": "issue"
     },
     {
-      "title": "labeled issue: [BUG] Navbar active state does not update on page navigation",
-      "description": "## 🐛 Describe the bug\nThe navigation bar keeps the \"Organizations\" tab highlighted as active even after navigating to other pages like Guide, Watchli",
-      "date": "2026-05-08",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/219",
+      "title": "opened issue: [BUG] unable to star/favorite organizations from the organization cards",
+      "description": "## 🐛 Describe the bug\n\nUsers are unable to star/favorite organizations from the organization cards.\n\nClicking the star icon in the top-right corner o",
+      "date": "2026-05-09",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/238",
       "type": "issue"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     }
   ],
-  "lastUpdated": "2026-05-09T01:59:11.805Z"
+  "lastUpdated": "2026-05-10T01:58:03.328Z"
 }

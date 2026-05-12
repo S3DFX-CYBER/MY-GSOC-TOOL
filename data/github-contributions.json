@@ -1,144 +1,147 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 18,
-    "issues": 26,
-    "reviews": 8
+    "pullRequests": 17,
+    "issues": 59,
+    "reviews": 1
   },
   "contributions": [
     {
-      "title": "labeled issue: Add dedicated GitHub issue and pull request templates for both NSoC and GSSoC contributors",
-      "description": "✨ Feature Description\n\nAdd dedicated GitHub issue and pull request templates for both NSoC and GSSoC contributors so contributors must explicitly choo",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/249",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: feat: scroll to top/bottom button",
-      "description": "\n\n## 🤔 Problem It Solves\nCurrently there's no scroll to top or scroll to bottom button\n",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/244",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: feat: Add a favicon",
-      "description": "## ✨ Feature Description\nCurrently there's no favicon\n",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/245",
-      "type": "issue"
-    },
-    {
-      "title": "opened issue: Add dedicated GitHub issue and pull request templates for both NSoC and GSSoC contributors",
-      "description": "✨ Feature Description\n\nAdd dedicated GitHub issue and pull request templates for both NSoC and GSSoC contributors so contributors must explicitly choo",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/249",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-05-10",
-      "type": "review"
-    },
-    {
-      "title": "labeled issue: feat: scroll to top/bottom button",
-      "description": "\n\n## 🤔 Problem It Solves\nCurrently there's no scroll to top or scroll to bottom button\n",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/244",
-      "type": "issue"
-    },
-    {
-      "title": "unlabeled issue: feat: scroll to top/bottom button",
-      "description": "\n\n## 🤔 Problem It Solves\nCurrently there's no scroll to top or scroll to bottom button\n",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/244",
-      "type": "issue"
-    },
-    {
-      "title": "unlabeled issue: feat: Add a favicon",
-      "description": "## ✨ Feature Description\nCurrently there's no favicon\n",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/245",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: feat: Add a favicon",
-      "description": "## ✨ Feature Description\nCurrently there's no favicon\n",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/245",
-      "type": "issue"
-    },
-    {
-      "title": "closed PR: undefined",
+      "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "type": "pull_request"
     },
     {
-      "title": "closed issue: [BUG] Navbar active state does not update on page navigation",
-      "description": "## 🐛 Describe the bug\nThe navigation bar keeps the \"Organizations\" tab highlighted as active even after navigating to other pages like Guide, Watchli",
-      "date": "2026-05-10",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/219",
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: Not able to add companies in Compare Organizations section",
+      "description": "##  the bug\nCurrently we are not able to add companies in the Compare Organizations section where the buttons are greyed out and not working \n\n---\n\n##",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/451",
+      "type": "issue"
+    },
+    {
+      "title": "reopened issue: Data Research Task: Verify/fix mentor contact info for LibreCube Initiative",
+      "description": "## Organization\nLibreCube Initiative — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-con",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/436",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled issue: Data Research Task: Verify/fix mentor contact info for LibreCube Initiative",
+      "description": "## Organization\nLibreCube Initiative — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-con",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/436",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled issue: Data Research Task: Verify/fix mentor contact info for Zulip",
+      "description": "## Organization\nZulip — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in ",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/435",
+      "type": "issue"
+    },
+    {
+      "title": "reopened issue: Data Research Task: Verify/fix mentor contact info for Zulip",
+      "description": "## Organization\nZulip — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in ",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/435",
       "type": "issue"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
+    },
+    {
+      "title": "unlabeled issue: Data Research Task: Verify/fix mentor contact info for Wagtail",
+      "description": "## Organization\nWagtail — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` i",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/432",
+      "type": "issue"
+    },
+    {
+      "title": "reopened issue: Data Research Task: Verify/fix mentor contact info for Wagtail",
+      "description": "## Organization\nWagtail — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` i",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/432",
+      "type": "issue"
+    },
+    {
+      "title": "reopened issue: Data Research Task: Verify/fix mentor contact info for libssh",
+      "description": "## Organization\nlibssh — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/437",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled issue: Data Research Task: Verify/fix mentor contact info for libssh",
+      "description": "## Organization\nlibssh — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/437",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: Contact Button Not Working on Website",
+      "description": "## 🐛 Describe the bug\nThe “Contact” button/link on the website is not functioning properly. When users click on the Contact button, no page opens or ",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/445",
+      "type": "issue"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "type": "pull_request"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "type": "review"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-05-10",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to maanyadanayak/GSoC-Org-Finder-",
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-10",
-      "url": "https://github.com/maanyadanayak/GSoC-Org-Finder-",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-10",
-      "type": "pull_request"
+      "title": "unlabeled issue: Data Research Task: Verify/fix mentor contact info for GRAME",
+      "description": "## Organization\nGRAME — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in ",
+      "date": "2026-05-11",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/311",
+      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-05-11T02:08:19.759Z"
+  "lastUpdated": "2026-05-12T02:04:04.633Z"
 }

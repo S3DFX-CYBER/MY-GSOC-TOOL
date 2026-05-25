@@ -1,141 +1,138 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 50,
-    "issues": 15,
-    "reviews": 6
+    "pullRequests": 43,
+    "issues": 16,
+    "reviews": 7
   },
   "contributions": [
     {
-      "title": "labeled issue: Improve Mentor Section UX with Load More Functionality",
-      "description": "Currently all mentor cards are displayed at once, which creates excessive scrolling and affects user experience.\n\nProposed Solution:\nInitially display",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1174",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: Improve Mentor Section UX with Load More Functionality",
-      "description": "Currently all mentor cards are displayed at once, which creates excessive scrolling and affects user experience.\n\nProposed Solution:\nInitially display",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1174",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: bug",
-      "description": "Issue",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1177",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "Pushed commits to arghya29/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-05-24",
+      "url": "https://github.com/arghya29/GSoC-Org-Finder-",
       "type": "commit"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-22",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-22",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-22",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to ash1shkumar/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-22",
-      "url": "https://github.com/ash1shkumar/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: [BUG]: Contact button is non-functional",
-      "description": "## 🐛 Describe the bug\n\nThe \"Contact\" button in the project is currently non-functional. Clicking the button does not redirect users to any contact, D",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/819",
-      "type": "issue"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-22",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-22",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-22",
-      "type": "pull_request"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-05-22",
+      "date": "2026-05-24",
       "type": "review"
-    },
-    {
-      "title": "Pushed commits to Vishee02/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-22",
-      "url": "https://github.com/Vishee02/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for webpack",
-      "description": "## Organization\nwebpack — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` i",
-      "date": "2026-05-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/433",
-      "type": "issue"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-22",
+      "date": "2026-05-24",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-22",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
       "type": "pull_request"
     },
     {
       "title": "unlabeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-22",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to Nilamma19/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-24",
+      "url": "https://github.com/Nilamma19/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to Harshith1702/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-24",
+      "url": "https://github.com/Harshith1702/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-24",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-24",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-24",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-24",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: feat: Add User Achievement/Badge System for engagement tracking",
+      "description": "## ✨ Feature Description\nAdd a gamification system that tracks user activities (org views, comparisons, searches, filters) and rewards them with achie",
+      "date": "2026-05-24",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/781",
+      "type": "issue"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-24",
       "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-05-23T02:04:33.449Z"
+  "lastUpdated": "2026-05-25T02:31:49.225Z"
 }

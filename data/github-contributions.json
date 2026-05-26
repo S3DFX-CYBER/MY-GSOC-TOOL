@@ -1,138 +1,148 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 43,
-    "issues": 16,
+    "pullRequests": 26,
+    "issues": 46,
     "reviews": 7
   },
   "contributions": [
     {
-      "title": "Pushed commits to arghya29/GSoC-Org-Finder-",
+      "title": "Pushed commits to aasthakhatri11/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-24",
-      "url": "https://github.com/arghya29/GSoC-Org-Finder-",
+      "date": "2026-05-25",
+      "url": "https://github.com/aasthakhatri11/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-05-24",
-      "type": "review"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to Nilamma19/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-24",
-      "url": "https://github.com/Nilamma19/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to Harshith1702/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-24",
-      "url": "https://github.com/Harshith1702/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-24",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-05-24",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-24",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-24",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: feat: Add User Achievement/Badge System for engagement tracking",
-      "description": "## ✨ Feature Description\nAdd a gamification system that tracks user activities (org views, comparisons, searches, filters) and rewards them with achie",
-      "date": "2026-05-24",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/781",
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Machine Learning for Science (ML4SCI)",
+      "description": "## Organization\nMachine Learning for Science (ML4SCI) — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for thi",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/344",
       "type": "issue"
     },
     {
-      "title": "labeled PR: undefined",
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for LLVM Compiler Infrastructure",
+      "description": "## Organization\nLLVM Compiler Infrastructure — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` /",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/343",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to Xenon010101/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-25",
+      "url": "https://github.com/Xenon010101/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for LibreOffice",
+      "description": "## Organization\nLibreOffice — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-foun",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/341",
+      "type": "issue"
+    },
+    {
+      "title": "reopened PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "type": "pull_request"
     },
     {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-24",
-      "type": "pull_request"
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for LibreHealth",
+      "description": "## Organization\nLibreHealth — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-foun",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/340",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Learning Unlimited",
+      "description": "## Organization\nLearning Unlimited — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-conta",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/339",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Learning Equality",
+      "description": "## Organization\nLearning Equality — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contac",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/338",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for LabLua",
+      "description": "## Organization\nLabLua — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/337",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for KubeVirt",
+      "description": "## Organization\nKubeVirt — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` ",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/336",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Kubeflow",
+      "description": "## Organization\nKubeflow — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` ",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/335",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Kotlin Foundation",
+      "description": "## Organization\nKotlin Foundation — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contac",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/334",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Kornia",
+      "description": "## Organization\nKornia — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/333",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Konflux",
+      "description": "## Organization\nKonflux — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` i",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/332",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for KolibriOS Project Team",
+      "description": "## Organization\nKolibriOS Project Team — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-c",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/331",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for JSON Schema",
+      "description": "## Organization\nJSON Schema — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-foun",
+      "date": "2026-05-25",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/328",
+      "type": "issue"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-25",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-25",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to poorvasingh1610/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-25",
+      "url": "https://github.com/poorvasingh1610/GSoC-Org-Finder-",
+      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-05-25T02:31:49.225Z"
+  "lastUpdated": "2026-05-26T02:12:16.494Z"
 }

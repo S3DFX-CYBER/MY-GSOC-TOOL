@@ -1,140 +1,138 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 48,
-    "issues": 10,
-    "reviews": 10
+    "pullRequests": 50,
+    "issues": 8,
+    "reviews": 8
   },
   "contributions": [
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-05-28",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to Vedhant26/GSoC-Org-Finder-",
+      "title": "Pushed commits to Harxhit/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-28",
-      "url": "https://github.com/Vedhant26/GSoC-Org-Finder-",
+      "date": "2026-05-29",
+      "url": "https://github.com/Harxhit/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "assigned issue: [BUG]  Add meaningful alt text to all organization logo images",
-      "description": "## 🐛 Describe the bug\nMany organization logo images displayed in the cards on the homepage are missing proper alt attributes. This is an accessibilit",
-      "date": "2026-05-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1200",
+      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for Django Software Foundation",
+      "description": "## Organization\nDjango Software Foundation — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `",
+      "date": "2026-05-29",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/284",
       "type": "issue"
-    },
-    {
-      "title": "assigned issue: [BUG] Previous search results persist even when search input is cleared",
-      "description": "## 🐛 Describe the bug\nCurrently, when a user searches for an organization and then clears the search input field, the previous search results are sti",
-      "date": "2026-05-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1209",
-      "type": "issue"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-05-28",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to maitrak18/GSoC-Org-Finder-MM",
-      "description": "Code changes",
-      "date": "2026-05-28",
-      "url": "https://github.com/maitrak18/GSoC-Org-Finder-MM",
-      "type": "commit"
-    },
-    {
-      "title": "assigned issue: Implement tooltips for hidden tech stack tags (+n) in organization cards",
-      "description": "Description: Currently, when an organization has more than 3 technologies, the additional items are condensed into a +n tag (for example, +2, +5). To ",
-      "date": "2026-05-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/730",
-      "type": "issue"
-    },
-    {
-      "title": "unassigned issue: Implement tooltips for hidden tech stack tags (+n) in organization cards",
-      "description": "Description: Currently, when an organization has more than 3 technologies, the additional items are condensed into a +n tag (for example, +2, +5). To ",
-      "date": "2026-05-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/730",
-      "type": "issue"
-    },
-    {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-28",
-      "type": "pull_request"
-    },
-    {
-      "title": "closed issue: Implement tooltips for hidden tech stack tags (+n) in organization cards",
-      "description": "Description: Currently, when an organization has more than 3 technologies, the additional items are condensed into a +n tag (for example, +2, +5). To ",
-      "date": "2026-05-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/730",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-29",
       "type": "pull_request"
     },
     {
       "title": "unlabeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "type": "pull_request"
     },
     {
-      "title": "labeled PR: undefined",
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-29",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to Jay-Jay-Tee/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-29",
+      "url": "https://github.com/Jay-Jay-Tee/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "assigned issue: Add a \"Share / Copy to Clipboard\" button for organization cards",
+      "description": "## ✨ Feature Request\n\n### Description\nAdd a \"Share\" or \"Copy to Clipboard\" button to each organization card so users can easily share specific organiz",
+      "date": "2026-05-29",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1524",
+      "type": "issue"
+    },
+    {
+      "title": "closed issue: [BUG] \"Privacy\" and \"Contact\" footer links use href=\"#\" and do nothing",
+      "description": "🐛 Describe the bug\nIn the footer, the \"Privacy\" and \"Contact\" links both use href=\"#\".\nClicking either one just scrolls the user back to the top of t",
+      "date": "2026-05-29",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/473",
+      "type": "issue"
+    },
+    {
+      "title": "closed issue: Add Clear Filters Button for Easier Navigation",
+      "description": "Description\nCurrently, users can apply multiple filters while searching for GSoC organizations, but there is no simple way to reset all active filters",
+      "date": "2026-05-29",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/868",
+      "type": "issue"
+    },
+    {
+      "title": "closed PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "type": "pull_request"
     },
     {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-28",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-28",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-28",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-28",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-28",
-      "type": "pull_request"
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-05-29",
+      "type": "review"
     }
   ],
-  "lastUpdated": "2026-05-29T02:10:50.184Z"
+  "lastUpdated": "2026-05-30T02:06:33.564Z"
 }

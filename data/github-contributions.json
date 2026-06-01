@@ -1,138 +1,137 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 54,
+    "pullRequests": 41,
     "issues": 10,
-    "reviews": 6
+    "reviews": 9
   },
   "contributions": [
     {
-      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for LLVM Compiler Infrastructure",
-      "description": "## Organization\nLLVM Compiler Infrastructure — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` /",
-      "date": "2026-05-30",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/343",
-      "type": "issue"
+      "title": "Pushed commits to Manav5234/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-31",
+      "url": "https://github.com/Manav5234/GSoC-Org-Finder-",
+      "type": "commit"
     },
     {
-      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for LibreHealth",
-      "description": "## Organization\nLibreHealth — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-foun",
-      "date": "2026-05-30",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/340",
+      "title": "closed issue: feat: add bookmark button to org detail modal opened via Surprise Me and View",
+      "description": "## ✨ Feature Description\nAdd a ★ bookmark button inside the organization detail modal so users can save an org to their Watchlist directly from the mo",
+      "date": "2026-05-31",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1148",
       "type": "issue"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-31",
       "type": "pull_request"
     },
     {
       "title": "unlabeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-05-31",
       "type": "pull_request"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "type": "review"
     },
     {
-      "title": "Pushed commits to arghya29/GSoC-Org-Finder-",
+      "title": "Pushed commits to shrutssss/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-05-30",
-      "url": "https://github.com/arghya29/GSoC-Org-Finder-",
+      "date": "2026-05-31",
+      "url": "https://github.com/shrutssss/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-30",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-05-30",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: feat: Add Subtle Border Animation Effects to Search Bar and Timeline Card",
-      "description": "**Description**\nThe current UI already has a modern dark theme and glow effects, but the Search Organization bar and Timeline card can be made more vi",
-      "date": "2026-05-30",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/636",
+      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for FFmpeg",
+      "description": "## Organization\nFFmpeg — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` in",
+      "date": "2026-05-31",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/289",
       "type": "issue"
     },
     {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-05-31",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-05-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-05-31T02:32:35.364Z"
+  "lastUpdated": "2026-06-01T02:41:56.669Z"
 }

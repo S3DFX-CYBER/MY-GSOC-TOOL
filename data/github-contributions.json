@@ -1,137 +1,135 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 41,
-    "issues": 3,
-    "reviews": 10
+    "pullRequests": 40,
+    "issues": 6,
+    "reviews": 13
   },
   "contributions": [
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-03",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-03",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-03",
+      "type": "review"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-03",
+      "type": "review"
+    },
+    {
+      "title": "assigned issue: [FEATURE]: Enhance Footer Design and Functionality",
+      "description": "## Feature Summary\n\nThe current footer is minimal and contains only basic navigation links and copyright information. Enhancing the footer can improve",
+      "date": "2026-06-03",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1735",
+      "type": "issue"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed issue: feat: improve and modernize project README documentation",
+      "description": "## ✨ Feature Description\nImprove and redesign the existing README.md to create a modern, visually appealing, and contributor-friendly documentation ex",
+      "date": "2026-06-03",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/708",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-06-03",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-03",
       "type": "pull_request"
     },
     {
       "title": "unlabeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "type": "pull_request"
     },
     {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "title": "Pushed commits to Xploit-Ghost/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-02",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "date": "2026-06-03",
+      "url": "https://github.com/Xploit-Ghost/GSoC-Org-Finder-",
       "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-02",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-02",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to priyankaatthghara-lab/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-06-02",
-      "url": "https://github.com/priyankaatthghara-lab/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to Sanika2404/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-06-02",
-      "url": "https://github.com/Sanika2404/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to Yashvijain1234/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-06-02",
-      "url": "https://github.com/Yashvijain1234/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-02",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to Praharshhhhhhh/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-06-02",
-      "url": "https://github.com/Praharshhhhhhh/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to Yashvijain1234/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-06-02",
-      "url": "https://github.com/Yashvijain1234/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-02",
-      "type": "review"
     }
   ],
-  "lastUpdated": "2026-06-03T02:48:27.181Z"
+  "lastUpdated": "2026-06-04T02:43:33.459Z"
 }

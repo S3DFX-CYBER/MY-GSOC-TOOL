@@ -1,136 +1,139 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 59,
-    "issues": 6,
-    "reviews": 7
+    "pullRequests": 44,
+    "issues": 11,
+    "reviews": 6
   },
   "contributions": [
     {
-      "title": "Pushed commits to Ayushia5/GSoC-Org-Finder-",
+      "title": "unassigned issue: feat: Add Visual Click Feedback for Scroll Up and Scroll Down Navigation Buttons",
+      "description": "## ✨ Feature Description\nAdd visual click feedback to the Scroll Up and Scroll Down navigation buttons so users can clearly see when a button press ha",
+      "date": "2026-06-07",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1791",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: feat: Add Visual Click Feedback for Scroll Up and Scroll Down Navigation Buttons",
+      "description": "## ✨ Feature Description\nAdd visual click feedback to the Scroll Up and Scroll Down navigation buttons so users can clearly see when a button press ha",
+      "date": "2026-06-07",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1791",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/angular",
       "description": "Code changes",
-      "date": "2026-06-06",
-      "url": "https://github.com/Ayushia5/GSoC-Org-Finder-",
+      "date": "2026-06-07",
+      "url": "https://github.com/S3DFX-CYBER/angular",
       "type": "commit"
     },
     {
-      "title": "closed issue: Improve README documentation",
-      "description": "I would like to improve the README documentation and formatting for better readability.\n\nPlease assign this issue to me under NSOC 2026.\n",
-      "date": "2026-06-06",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1779",
-      "type": "issue"
+      "title": "Pushed commits to S3DFX-CYBER/angular",
+      "description": "Code changes",
+      "date": "2026-06-07",
+      "url": "https://github.com/S3DFX-CYBER/angular",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/angular",
+      "description": "Code changes",
+      "date": "2026-06-07",
+      "url": "https://github.com/S3DFX-CYBER/angular",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to maitrak18/GSoC-Org-Finder-MM",
+      "description": "Code changes",
+      "date": "2026-06-07",
+      "url": "https://github.com/maitrak18/GSoC-Org-Finder-MM",
+      "type": "commit"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "closed issue: Section-wise Smooth Navigation Between Major Sections",
-      "description": "## Description\n\nImplement section-wise navigation that allows users to smoothly scroll to different sections of the platform with a single click, impr",
-      "date": "2026-06-06",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1631",
+      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for Jenkins",
+      "description": "## Organization\nJenkins — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-found` i",
+      "date": "2026-06-07",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/324",
       "type": "issue"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-06",
-      "type": "review"
-    },
-    {
-      "title": "reopened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/angular-cli",
-      "description": "Code changes",
-      "date": "2026-06-06",
-      "url": "https://github.com/S3DFX-CYBER/angular-cli",
-      "type": "commit"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "type": "pull_request"
     },
     {
       "title": "unlabeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "type": "pull_request"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-06",
-      "type": "review"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-07",
+      "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-06-07T02:36:02.283Z"
+  "lastUpdated": "2026-06-08T02:40:31.997Z"
 }

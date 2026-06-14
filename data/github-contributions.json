@@ -1,137 +1,138 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 36,
-    "issues": 12,
-    "reviews": 7
+    "pullRequests": 48,
+    "issues": 7,
+    "reviews": 9
   },
   "contributions": [
     {
-      "title": "Pushed commits to Shikhar-404exe/GSoC-Org-Finder-",
+      "title": "Pushed commits to anshul23102/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-12",
-      "url": "https://github.com/Shikhar-404exe/GSoC-Org-Finder-",
+      "date": "2026-06-13",
+      "url": "https://github.com/anshul23102/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
+      "title": "Pushed commits to anshul23102/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-06-13",
+      "url": "https://github.com/anshul23102/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-13",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-06-13",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: [Bug]: openModal(name) in recommendation-ui.js passes string org name to numeric-index function, crashes with TypeError on every recommendation card click",
+      "description": "## Bug Description\n\n`recommendation-ui.js` calls `openModal` with the organization's name as a string. The `openModal` function in `app.js` expects a ",
+      "date": "2026-06-13",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1334",
+      "type": "issue"
+    },
+    {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-13",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-13",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-13",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-13",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-13",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-13",
       "type": "pull_request"
     },
     {
       "title": "unlabeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "type": "pull_request"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "type": "review"
     },
     {
-      "title": "Pushed commits to imayuss/GSoC-Org-Finder-",
+      "title": "Pushed commits to anshul23102/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-12",
-      "url": "https://github.com/imayuss/GSoC-Org-Finder-",
+      "date": "2026-06-13",
+      "url": "https://github.com/anshul23102/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "unassigned issue: [Feat] Add scroll to top button",
-      "description": "Description\nAdd a reusable Scroll To Top Button component that appears when the user scrolls down the page. When clicked, it smoothly scrolls the view",
-      "date": "2026-06-12",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1850",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: [Feat] Add scroll to top button",
-      "description": "Description\nAdd a reusable Scroll To Top Button component that appears when the user scrolls down the page. When clicked, it smoothly scrolls the view",
-      "date": "2026-06-12",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1850",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
+      "title": "Pushed commits to NayansiDupare/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-12",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "date": "2026-06-13",
+      "url": "https://github.com/NayansiDupare/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "closed issue: Make SOC Dashboard Responsive for Tablet and Mobile",
-      "description": "## 📱 SOC Dashboard Responsiveness\n\n### Description\nEnsure the SOC Dashboard works well on tablets and large mobile screens, as on-call security analy",
-      "date": "2026-06-12",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/143",
-      "type": "issue"
-    },
-    {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "type": "pull_request"
     },
     {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-13",
+      "type": "review"
     },
     {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-12",
-      "type": "pull_request"
+      "title": "Pushed commits to anshul23102/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-06-13",
+      "url": "https://github.com/anshul23102/GSoC-Org-Finder-",
+      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-06-13T02:29:12.453Z"
+  "lastUpdated": "2026-06-14T02:40:36.755Z"
 }

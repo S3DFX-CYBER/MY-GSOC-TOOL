@@ -1,138 +1,133 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 30,
-    "issues": 20,
-    "reviews": 8
+    "pullRequests": 61,
+    "issues": 15,
+    "reviews": 9
   },
   "contributions": [
     {
-      "title": "assigned issue: [BUG] UI inconsistency: card bottom alignment is uneven across project cards",
-      "description": "## 🐛 Describe the bug\nThe project cards in the organization/projects section have inconsistent bottom alignment.\nBecause the amount of content differ",
-      "date": "2026-06-26",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1957",
-      "type": "issue"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
     },
     {
-      "title": "assigned issue: Add proper installation steps for Windows users",
-      "description": "I noticed the project documentation does not clearly explain installation/setup steps for Windows users.\n\nI would like to improve the setup guide by a",
-      "date": "2026-06-26",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1785",
-      "type": "issue"
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
     },
     {
-      "title": "assigned issue: Make Landing Page Fully Responsive (Mobile & Tablet)",
-      "description": "## 📱 Landing Page Responsiveness\n\n### Description\nThe landing page must be fully responsive across all screen sizes — mobile, tablet, and desktop — t",
-      "date": "2026-06-26",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/135",
-      "type": "issue"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
     },
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-26",
-      "type": "review"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/GenAI-LLM-Top10",
-      "description": "Code changes",
-      "date": "2026-06-26",
-      "url": "https://github.com/S3DFX-CYBER/GenAI-LLM-Top10",
-      "type": "commit"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "closed issue: feat: Add a Dedicated Landing Page for FindMyGSoC",
-      "description": "## Feature Summary\n\nCreate a modern and informative landing page that introduces users to FindMyGSoC, showcases its core features, and improves onboar",
-      "date": "2026-06-26",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1756",
+      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for Genome Assembly and Annotation",
+      "description": "## Organization\nGenome Assembly and Annotation — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.`",
+      "date": "2026-06-27",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/298",
       "type": "issue"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-26",
-      "type": "pull_request"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "type": "review"
     },
     {
-      "title": "Pushed commits to arpit2006/GSoC-Org-Contribution",
-      "description": "Code changes",
-      "date": "2026-06-26",
-      "url": "https://github.com/arpit2006/GSoC-Org-Contribution",
-      "type": "commit"
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-27",
+      "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-06-27T02:12:18.453Z"
+  "lastUpdated": "2026-06-28T02:33:16.703Z"
 }

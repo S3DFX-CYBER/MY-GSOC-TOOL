@@ -1,142 +1,138 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 46,
-    "issues": 12,
-    "reviews": 5
+    "pullRequests": 41,
+    "issues": 13,
+    "reviews": 6
   },
   "contributions": [
     {
-      "title": "assigned issue: [BUG]: Fix Routing byServing landing page at root (/) and route main application to /app",
-      "description": "## Description:\nCurrently, our vercel.json uses a redirect to send users from the root (/) to /landing.html. This causes the URL in the browser to vis",
-      "date": "2026-06-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1974",
+      "title": "closed issue: [BUG] Org logo images render as thin slivers at narrow viewport widths (320px)",
+      "description": "## 🐛 Describe the bug\n\nOrganization logo images in the org cards intermittently render as extremely thin vertical slivers instead of proper squares a",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1940",
       "type": "issue"
     },
     {
-      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for TARDIS RT Collaboration",
-      "description": "## Organization\nTARDIS RT Collaboration — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-",
-      "date": "2026-06-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/412",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for Uramaki LAB",
-      "description": "## Organization\nUramaki LAB — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-foun",
-      "date": "2026-06-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/430",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: Data Research Task: Verify/fix mentor contact info for The Honeynet Project",
-      "description": "## Organization\nThe Honeynet Project — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-con",
-      "date": "2026-06-28",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/414",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to agsaru/TENET-AI",
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-28",
-      "url": "https://github.com/agsaru/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-28",
-      "type": "pull_request"
-    },
-    {
-      "title": "closed issue: Write Testing Guide and Contribution Documentation for Tests",
-      "description": "## 📚 Testing Documentation\n\n### Description\nCreate comprehensive documentation explaining how to write, run, and contribute tests to the TENET AI pro",
-      "date": "2026-06-28",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/153",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-06-28",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-28",
+      "date": "2026-06-30",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-28",
+      "date": "2026-06-30",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-28",
+      "date": "2026-06-30",
       "type": "pull_request"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-06-28",
+      "date": "2026-06-30",
       "type": "review"
     },
     {
-      "title": "Pushed commits to shatrughantwt/TENET-AI",
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-28",
-      "url": "https://github.com/shatrughantwt/TENET-AI",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "closed PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-28",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to arya2807/TENET-AI_arya_SsoC26",
-      "description": "Code changes",
-      "date": "2026-06-28",
-      "url": "https://github.com/arya2807/TENET-AI_arya_SsoC26",
-      "type": "commit"
+      "title": "closed issue: Revamp Footer Navigation: Improve Link Accessibility, Visibility & User Experience",
+      "description": "## Issue Description\nThe footer section currently contains several navigation links under Quick Links and Programs, but there are opportunities to enh",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1888",
+      "type": "issue"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-28",
+      "date": "2026-06-30",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-28",
+      "date": "2026-06-30",
       "type": "pull_request"
     },
     {
-      "title": "Pushed commits to Suhaskumard/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-06-28",
-      "url": "https://github.com/Suhaskumard/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "closed PR: undefined",
+      "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-06-28",
+      "date": "2026-06-30",
       "type": "pull_request"
     },
     {
-      "title": "Pushed commits to arya2807/TENET-AI_arya_SsoC26",
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-30",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-30",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-30",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to tannushree483/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-06-28",
-      "url": "https://github.com/arya2807/TENET-AI_arya_SsoC26",
+      "date": "2026-06-30",
+      "url": "https://github.com/tannushree483/GSoC-Org-Finder-",
       "type": "commit"
+    },
+    {
+      "title": "assigned issue: [PERFORMANCE] Implement lazy loading & WebP format for org logos to reduce bundle size & CLS",
+      "description": "## Problem\nCurrent state:\n1. **184 org logos** loaded on initial page load (even if not visible)\n2. **No lazy loading** - images below the fold load i",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1185",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: [PERFORMANCE] Search input triggers filter on every keystroke without debouncing",
+      "description": "## Performance Issue: Missing Debounce on Search Input Causes Excessive Re-renders\n\n### Description\nThe organization search input field triggers a ful",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1970",
+      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-06-29T02:33:28.942Z"
+  "lastUpdated": "2026-06-30T02:28:15.258Z"
 }

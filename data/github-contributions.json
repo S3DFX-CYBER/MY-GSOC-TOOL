@@ -1,11 +1,88 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 41,
-    "issues": 13,
-    "reviews": 6
+    "pullRequests": 37,
+    "issues": 16,
+    "reviews": 7
   },
   "contributions": [
+    {
+      "title": "closed issue: feat: Add \"Back to Top\" button for long org list scrolling",
+      "description": "Feature Description\nA small floating button that shows up when you scroll down the org list, so you can jump back to the top instantly.\n\nProblem It So",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1215",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-06-30",
+      "type": "review"
+    },
+    {
+      "title": "closed issue: Remove Duplicate \"Back to Top\" Buttons and Fix Floating Action Button Alignment",
+      "description": "## Issue Description\nThe UI currently displays multiple \"Back to Top\" floating buttons on the page, resulting in visual clutter and an inconsistent us",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1890",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: [BUG]: Fix Routing byServing landing page at root (/) and route main application to /app",
+      "description": "## Description:\nCurrently, our vercel.json uses a redirect to send users from the root (/) to /landing.html. This causes the URL in the browser to vis",
+      "date": "2026-06-30",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1974",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-06-30",
+      "type": "pull_request"
+    },
     {
       "title": "closed issue: [BUG] Org logo images render as thin slivers at narrow viewport widths (320px)",
       "description": "## 🐛 Describe the bug\n\nOrganization logo images in the org cards intermittently render as extremely thin vertical slivers instead of proper squares a",
@@ -57,82 +134,7 @@
       "date": "2026-06-30",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1888",
       "type": "issue"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-06-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-30",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-30",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-06-30",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to tannushree483/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-06-30",
-      "url": "https://github.com/tannushree483/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "assigned issue: [PERFORMANCE] Implement lazy loading & WebP format for org logos to reduce bundle size & CLS",
-      "description": "## Problem\nCurrent state:\n1. **184 org logos** loaded on initial page load (even if not visible)\n2. **No lazy loading** - images below the fold load i",
-      "date": "2026-06-30",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1185",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: [PERFORMANCE] Search input triggers filter on every keystroke without debouncing",
-      "description": "## Performance Issue: Missing Debounce on Search Input Causes Excessive Re-renders\n\n### Description\nThe organization search input field triggers a ful",
-      "date": "2026-06-30",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1970",
-      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-06-30T02:28:15.258Z"
+  "lastUpdated": "2026-07-01T02:34:08.891Z"
 }

@@ -1,147 +1,143 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 34,
-    "issues": 21,
-    "reviews": 8
+    "pullRequests": 37,
+    "issues": 20,
+    "reviews": 9
   },
   "contributions": [
     {
       "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
       "description": "Code changes",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "url": "https://github.com/TENET-DEV-AI/TENET-AI",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: Add .dockerignore files for backend services",
-      "description": "## Description\nAdd `.dockerignore` files for the `services/ingest/` and `services/analyzer/` directories to optimize Docker build context and reduce i",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/37",
+      "title": "closed issue: Add Analytics Charts and Threat Visualization to SOC Dashboard",
+      "description": "## 📊 SOC Dashboard Analytics & Charts\n\n### Description\nAdd data visualization components to the SOC Dashboard so analysts can spot trends, patterns, ",
+      "date": "2026-07-04",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/126",
       "type": "issue"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-03",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled issue: Add .dockerignore files for backend services",
-      "description": "## Description\nAdd `.dockerignore` files for the `services/ingest/` and `services/analyzer/` directories to optimize Docker build context and reduce i",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/37",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: Add .dockerignore files for backend services",
-      "description": "## Description\nAdd `.dockerignore` files for the `services/ingest/` and `services/analyzer/` directories to optimize Docker build context and reduce i",
-      "date": "2026-07-03",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/37",
-      "type": "issue"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "type": "review"
     },
     {
-      "title": "opened issue: Windows Defender flags download/install; runtime error on uv run friday_voice",
-      "description": "Issue 1: Windows Defender false positive\nDownloading/running the repo triggers a Windows Defender detection. \n\nCould you confirm whether this is a kno",
-      "date": "2026-07-03",
-      "url": "https://github.com/SAGAR-TAMANG/friday-tony-stark-demo/issues/16",
+      "title": "Pushed commits to Ingole712521/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-07-04",
+      "url": "https://github.com/Ingole712521/TENET-AI",
+      "type": "commit"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-04",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-07-04",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: Generate and Publish API Documentation",
+      "description": "## 📖 OpenAPI Documentation\n\n### Description\nAdd Swagger/OpenAPI documentation to make the API self-documenting and easier for contributors and consum",
+      "date": "2026-07-04",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/98",
       "type": "issue"
     },
     {
-      "title": "Pushed commits to arya2807/TENET-AI_arya_SsoC26",
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-04",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-04",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-04",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to agsaru/TENET-AI",
       "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/arya2807/TENET-AI_arya_SsoC26",
+      "date": "2026-07-04",
+      "url": "https://github.com/agsaru/TENET-AI",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to Ishant-Artishu/TENET-AI",
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-04",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to Suhaskumard/TENET-AI",
       "description": "Code changes",
-      "date": "2026-07-03",
-      "url": "https://github.com/Ishant-Artishu/TENET-AI",
+      "date": "2026-07-04",
+      "url": "https://github.com/Suhaskumard/TENET-AI",
       "type": "commit"
+    },
+    {
+      "title": "unassigned issue: Create CONTRIBUTING_QUICKSTART.md for new developers",
+      "description": "## Description\nCreate a quickstart guide to help new contributors set up the development environment in under 10 minutes.\n\n## Context\nWhile `CONTRIBUT",
+      "date": "2026-07-04",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/42",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Create CONTRIBUTING_QUICKSTART.md for new developers",
+      "description": "## Description\nCreate a quickstart guide to help new contributors set up the development environment in under 10 minutes.\n\n## Context\nWhile `CONTRIBUT",
+      "date": "2026-07-04",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/42",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to agsaru/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-07-04",
+      "url": "https://github.com/agsaru/TENET-AI",
+      "type": "commit"
+    },
+    {
+      "title": "assigned issue: Improve Landing Page Accessibility (WCAG 2.1 Compliance)",
+      "description": "## ♿ Landing Page Accessibility\n\n### Description\nEnsure the TENET AI landing page meets WCAG 2.1 AA accessibility standards, making it usable for ever",
+      "date": "2026-07-04",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/123",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Implement User Feedback Loop for False Positives/Negatives",
+      "description": "## 🔄 False Positive Feedback Loop\n\n### Description\nAllow SOC analysts to flag incorrect detections (false positives / false negatives) through the da",
+      "date": "2026-07-04",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/133",
+      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-07-04T01:56:48.279Z"
+  "lastUpdated": "2026-07-05T02:04:37.124Z"
 }

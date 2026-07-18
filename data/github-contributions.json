@@ -1,138 +1,140 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 30,
-    "issues": 20,
+    "pullRequests": 35,
+    "issues": 22,
     "reviews": 10
   },
   "contributions": [
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-07-16",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-07-16",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-07-15",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for Uramaki LAB",
-      "description": "## Organization\nUramaki LAB — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-contact-foun",
-      "date": "2026-07-15",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/430",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for The Honeynet Project",
-      "description": "## Organization\nThe Honeynet Project — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-con",
-      "date": "2026-07-15",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/414",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: Data Research Task: Verify/fix mentor contact info for TARDIS RT Collaboration",
-      "description": "## Organization\nTARDIS RT Collaboration — GSoC 2026\n\n## Problem\nThis org currently has status `No mentor contact info parsed yet for this org.` / `no-",
-      "date": "2026-07-15",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/412",
+      "title": "closed issue: [A11Y] Missing `alt` attributes on image tags across multiple files",
+      "description": "Hi! I found that there are image tags (`<img>`) without `alt` attributes in the codebase, which reduces accessibility for screen readers and impacts S",
+      "date": "2026-07-17",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1481",
       "type": "issue"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-07-15",
+      "date": "2026-07-17",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-15",
-      "type": "pull_request"
+      "title": "closed issue: Mentor Review Tracker workflow fails to commit stats: `.github` ignored in git add + push from detached merge ref",
+      "description": "## Bug Report\n\n### Description\nThe **Mentor Review Tracker** workflow (`.github/workflows/mentor-review-tracker.yml`) fails on every mentor review. Th",
+      "date": "2026-07-17",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2014",
+      "type": "issue"
     },
     {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-15",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-15",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-15",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-15",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-15",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-15",
-      "type": "pull_request"
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-07-17",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-07-15",
+      "date": "2026-07-17",
+      "type": "review"
+    },
+    {
+      "title": "closed issue: PR Stage Manager fails on fork PRs: unguarded createComment/updateComment throw with read-only token",
+      "description": "## Bug Report\n\n### Description\nThe ** PR Stage Manager** workflow (`.github/workflows/pr-stage-manage.yml`) fails on every fork PR that receives a rev",
+      "date": "2026-07-17",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2016",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-07-17",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-17",
       "type": "review"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
-      "date": "2026-07-15",
+      "date": "2026-07-17",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
     },
     {
-      "title": "closed issue: feat: Add scrollable high-performance containers for Org and Mentor directories",
-      "description": "## ✨ Feature Description\nTo improve page performance and user experience, the Organizations and Mentors directories can be updated to a scrollable arc",
-      "date": "2026-07-15",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/686",
+      "title": "closed issue: Bug: Client Side Denial of Service (DoS) via Unbounded File Read",
+      "description": "## 🐛 Bug Report\n\n### Description\nA vulnerability exists in the resume file upload handler within `src/js/recommendation-ui.js`. When a user selects a",
+      "date": "2026-07-17",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2005",
       "type": "issue"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-07-15",
+      "date": "2026-07-17",
       "type": "pull_request"
     },
     {
       "title": "unlabeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-07-15",
+      "date": "2026-07-17",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-17",
+      "type": "pull_request"
+    },
+    {
+      "title": "unlabeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-17",
       "type": "pull_request"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-07-15",
+      "date": "2026-07-17",
       "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-17",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-17",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-17",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-17",
+      "type": "review"
+    },
+    {
+      "title": "closed issue: feat: add a button to the header that will take user to landing page of the application",
+      "description": "### Description\n\nCurrently there is no way to go from the gsoc finder org page to its landing page\n\n### Proposed Solution\n\nAdding a button to the head",
+      "date": "2026-07-17",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2019",
+      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-07-17T01:46:57.341Z"
+  "lastUpdated": "2026-07-18T01:28:02.279Z"
 }

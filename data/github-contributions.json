@@ -1,11 +1,71 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 32,
-    "issues": 25,
-    "reviews": 8
+    "pullRequests": 31,
+    "issues": 29,
+    "reviews": 9
   },
   "contributions": [
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-07-19",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: [BUG] Site fails to load (ERR_FAILED) on production — Service Worker conflicts with new vercel.json redirect on \"/\"",
+      "description": "Summary\nAfter merging #1854, the production deployment at https://findmygsoc.vercel.app/ fails to load entirely with ERR_FAILED. The root page is comp",
+      "date": "2026-07-19",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1964",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: Issue: scroll-to-top button overlap footer elements on mobile layout",
+      "description": "## 🐛 Bug Report\n\n### Description\nFixed position floating elements on the bottom right are overlapping static footer elements on mobile screen\n\n### St",
+      "date": "2026-07-19",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1999",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: feat: Add a \"Clear All Filters\" button to the search sidebar",
+      "description": "## ✨ Feature Request\n\n### Description\nAdd a centralized \"Clear All\" button to the search sidebar that dynamically appears whenever one or more active ",
+      "date": "2026-07-19",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2011",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-07-19",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: [BUG]: Update Discord invite link in the website",
+      "description": "## 🐛 Describe the bug\nThe discord invite link in the website is expired.\n\nNew functional invite link should be put there in place of the expired link",
+      "date": "2026-07-19",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2025",
+      "type": "issue"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-19",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-19",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-19",
+      "type": "review"
+    },
     {
       "title": "unlabeled issue: Implement Load Testing and Performance Benchmarking for TENET AI API",
       "description": "## 💥 Load & Performance Testing\n\n### Description\nImplement load testing to understand TENET AI's performance limits and ensure the API can handle pro",
@@ -82,65 +142,7 @@
       "date": "2026-07-17",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-07-17",
-      "type": "review"
-    },
-    {
-      "title": "closed issue: PR Stage Manager fails on fork PRs: unguarded createComment/updateComment throw with read-only token",
-      "description": "## Bug Report\n\n### Description\nThe ** PR Stage Manager** workflow (`.github/workflows/pr-stage-manage.yml`) fails on every fork PR that receives a rev",
-      "date": "2026-07-17",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2016",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-07-17",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-07-17",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-07-17",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: Bug: Client Side Denial of Service (DoS) via Unbounded File Read",
-      "description": "## 🐛 Bug Report\n\n### Description\nA vulnerability exists in the resume file upload handler within `src/js/recommendation-ui.js`. When a user selects a",
-      "date": "2026-07-17",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2005",
-      "type": "issue"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-17",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-17",
-      "type": "pull_request"
-    },
-    {
-      "title": "unlabeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-17",
-      "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-07-19T01:44:59.945Z"
+  "lastUpdated": "2026-07-20T02:01:25.396Z"
 }

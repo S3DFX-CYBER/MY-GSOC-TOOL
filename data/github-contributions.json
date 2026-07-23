@@ -7,6 +7,38 @@
   },
   "contributions": [
     {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-07-22",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: BUG: Remove unused data-org-index attribute from recommendation cards",
+      "description": "## 🐛 Bug Report\n\n### Description\nFollow up to #2007 :\n`handleCardActivation` used to parse `data-org-index` to call `openModal(idx)` but that was wro",
+      "date": "2026-07-22",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2013",
+      "type": "issue"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-22",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-22",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-22",
+      "type": "review"
+    },
+    {
       "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
       "description": "Code changes",
       "date": "2026-07-21",
@@ -107,39 +139,7 @@
       "date": "2026-07-19",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
-    },
-    {
-      "title": "closed issue: [BUG]: Update Discord invite link in the website",
-      "description": "## 🐛 Describe the bug\nThe discord invite link in the website is expired.\n\nNew functional invite link should be put there in place of the expired link",
-      "date": "2026-07-19",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2025",
-      "type": "issue"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-19",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-19",
-      "type": "pull_request"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-07-19",
-      "type": "review"
-    },
-    {
-      "title": "unlabeled issue: Implement Load Testing and Performance Benchmarking for TENET AI API",
-      "description": "## 💥 Load & Performance Testing\n\n### Description\nImplement load testing to understand TENET AI's performance limits and ensure the API can handle pro",
-      "date": "2026-07-18",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/151",
-      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-07-22T01:44:16.970Z"
+  "lastUpdated": "2026-07-23T01:51:33.003Z"
 }

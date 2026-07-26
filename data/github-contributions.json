@@ -1,11 +1,51 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 33,
-    "issues": 23,
-    "reviews": 7
+    "pullRequests": 31,
+    "issues": 17,
+    "reviews": 8
   },
   "contributions": [
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
+      "description": "Code changes",
+      "date": "2026-07-25",
+      "url": "https://github.com/S3DFX-CYBER/Humanoid",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
+      "description": "Code changes",
+      "date": "2026-07-25",
+      "url": "https://github.com/S3DFX-CYBER/Humanoid",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
+      "description": "Code changes",
+      "date": "2026-07-25",
+      "url": "https://github.com/S3DFX-CYBER/Humanoid",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-25",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-25",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/ggshield",
+      "description": "Code changes",
+      "date": "2026-07-25",
+      "url": "https://github.com/S3DFX-CYBER/ggshield",
+      "type": "commit"
+    },
     {
       "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
       "description": "Code changes",
@@ -92,46 +132,7 @@
       "description": "Pull request",
       "date": "2026-07-22",
       "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
-      "description": "Code changes",
-      "date": "2026-07-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
-      "type": "commit"
-    },
-    {
-      "title": "closed issue: BUG: Remove unused data-org-index attribute from recommendation cards",
-      "description": "## 🐛 Bug Report\n\n### Description\nFollow up to #2007 :\n`handleCardActivation` used to parse `data-org-index` to call `openModal(idx)` but that was wro",
-      "date": "2026-07-22",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/2013",
-      "type": "issue"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-22",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-22",
-      "type": "pull_request"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-07-22",
-      "type": "review"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-21",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-07-25T01:47:27.617Z"
+  "lastUpdated": "2026-07-26T01:50:16.752Z"
 }

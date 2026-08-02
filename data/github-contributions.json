@@ -1,148 +1,141 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 23,
-    "issues": 25,
-    "reviews": 5
+    "pullRequests": 19,
+    "issues": 23,
+    "reviews": 10
   },
   "contributions": [
     {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/owasp-vwad.github.io",
+      "title": "Pushed commits to kritikukreja6-create/TENET-AI",
       "description": "Code changes",
-      "date": "2026-07-30",
-      "url": "https://github.com/S3DFX-CYBER/owasp-vwad.github.io",
+      "date": "2026-08-01",
+      "url": "https://github.com/kritikukreja6-create/TENET-AI",
       "type": "commit"
     },
     {
-      "title": "opened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-07-30",
-      "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/owasp-vwad.github.io",
+      "title": "Pushed commits to diksha78dev/TENET-AI",
       "description": "Code changes",
-      "date": "2026-07-30",
-      "url": "https://github.com/S3DFX-CYBER/owasp-vwad.github.io",
+      "date": "2026-08-01",
+      "url": "https://github.com/diksha78dev/TENET-AI",
       "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/owasp-vwad.github.io",
-      "description": "Code changes",
-      "date": "2026-07-30",
-      "url": "https://github.com/S3DFX-CYBER/owasp-vwad.github.io",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/owasp-vwad.github.io",
-      "description": "Code changes",
-      "date": "2026-07-30",
-      "url": "https://github.com/S3DFX-CYBER/owasp-vwad.github.io",
-      "type": "commit"
-    },
-    {
-      "title": "assigned issue: Build Detection Engine Benchmarking and Evaluation Framework",
-      "description": "## 📏 Detection Benchmarking Framework\n\n### Description\nCreate a reproducible benchmarking framework to evaluate and compare detection engine performa",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/145",
-      "type": "issue"
-    },
-    {
-      "title": "assigned issue: Improve Prompt Injection and Jailbreak Detection Accuracy",
-      "description": "## 🧠 Detection Accuracy Improvement\n\n### Description\nImprove the core detection engine's accuracy for identifying prompt injection and jailbreak atte",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/144",
-      "type": "issue"
-    },
-    {
-      "title": "unlabeled issue: Improve Prompt Injection and Jailbreak Detection Accuracy",
-      "description": "## 🧠 Detection Accuracy Improvement\n\n### Description\nImprove the core detection engine's accuracy for identifying prompt injection and jailbreak atte",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/144",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to aksharagirish/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-07-30",
-      "url": "https://github.com/aksharagirish/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "unassigned issue: Generate Software Bill of Materials (SBOM)",
-      "description": "## 📦 SBOM Generation\n\n### Description\nGenerate and publish a Software Bill of Materials (SBOM) to provide full supply chain transparency for TENET's ",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/107",
-      "type": "issue"
-    },
-    {
-      "title": "unassigned issue: Harden Docker Images for Production Deployment",
-      "description": "## 🐳 Docker Production Hardening\n\n### Description\nImprove the Docker setup to follow production best practices for security, performance, and reliabi",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/97",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: Automated Dependency Security Monitoring with Dependabot",
-      "description": "## 🔒 Dependency Vulnerability Management\n\n### Description\nConfigure Dependabot to automatically monitor and update dependencies, improving the projec",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/96",
-      "type": "issue"
-    },
-    {
-      "title": "unassigned issue: Automated Dependency Security Monitoring with Dependabot",
-      "description": "## 🔒 Dependency Vulnerability Management\n\n### Description\nConfigure Dependabot to automatically monitor and update dependencies, improving the projec",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/96",
-      "type": "issue"
-    },
-    {
-      "title": "unassigned issue: Production CI Pipeline with Lint, Tests, Security Scans and Coverage Gates",
-      "description": "## 🚀 Production CI Pipeline Hardening\n\n### Description\nAdd a robust GitHub Actions workflow to enforce code quality and security standards on every p",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/95",
-      "type": "issue"
-    },
-    {
-      "title": "unassigned issue: Add Export Functionality to SOC Dashboard (CSV, PDF, JSON)",
-      "description": "## 📤 SOC Dashboard Export\n\n### Description\nAllow SOC analysts to export threat detection data and reports in multiple formats for offline analysis, r",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/127",
-      "type": "issue"
-    },
-    {
-      "title": "unassigned issue: Conduct Load and Stress Testing on TENET AI API",
-      "description": "## 🏋️ API Load & Stress Testing\n\n### Description\nPerform systematic load and stress testing on the TENET AI API to identify performance bottlenecks a",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/131",
-      "type": "issue"
     },
     {
       "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
       "description": "Code changes",
-      "date": "2026-07-30",
+      "date": "2026-08-01",
       "url": "https://github.com/TENET-DEV-AI/TENET-AI",
       "type": "commit"
     },
     {
-      "title": "closed issue: Implement User Feedback Loop for False Positives/Negatives",
-      "description": "## 🔄 False Positive Feedback Loop\n\n### Description\nAllow SOC analysts to flag incorrect detections (false positives / false negatives) through the da",
-      "date": "2026-07-30",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/133",
+      "title": "closed issue: Implement Load Testing and Performance Benchmarking for TENET AI API",
+      "description": "## 💥 Load & Performance Testing\n\n### Description\nImplement load testing to understand TENET AI's performance limits and ensure the API can handle pro",
+      "date": "2026-08-01",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/151",
       "type": "issue"
     },
     {
       "title": "labeled PR: undefined",
       "description": "Pull request",
-      "date": "2026-07-30",
+      "date": "2026-08-01",
       "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-08-01",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-08-01",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-08-01",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-08-01",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to dharapandya85/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-07-31",
+      "url": "https://github.com/dharapandya85/TENET-AI",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-31",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-07-31",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
+    },
+    {
+      "title": "closed issue: Build Detection Engine Benchmarking and Evaluation Framework",
+      "description": "## 📏 Detection Benchmarking Framework\n\n### Description\nCreate a reproducible benchmarking framework to evaluate and compare detection engine performa",
+      "date": "2026-07-31",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/145",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-07-31",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "type": "commit"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-07-31",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-07-31",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/GSoC-Org-Finder-",
+      "description": "Code changes",
+      "date": "2026-07-31",
+      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
+      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-07-31T01:52:04.313Z"
+  "lastUpdated": "2026-08-02T01:49:34.585Z"
 }

@@ -1,11 +1,18 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 53,
-    "issues": 9,
+    "pullRequests": 51,
+    "issues": 10,
     "reviews": 14
   },
   "contributions": [
+    {
+      "title": "opened issue: Feat: Contributed Repositories to OWASP Certificate of Contribution",
+      "description": "The certificate currently displays the number of repositories (e.g. “6 Repositories”), but does not provide any indication of which repositories those",
+      "date": "2026-08-18",
+      "url": "https://github.com/OWASP/OWASP-CRT/issues/27",
+      "type": "issue"
+    },
     {
       "title": "closed PR: undefined",
       "description": "Pull request",
@@ -123,14 +130,7 @@
       "date": "2026-08-15",
       "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-",
       "type": "commit"
-    },
-    {
-      "title": "closed issue: Issue: scroll-to-top button overlap footer elements on mobile layout",
-      "description": "## 🐛 Bug Report\n\n### Description\nFixed position floating elements on the bottom right are overlapping static footer elements on mobile screen\n\n### St",
-      "date": "2026-08-15",
-      "url": "https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/1999",
-      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-08-18T00:38:34.732Z"
+  "lastUpdated": "2026-08-19T00:38:45.509Z"
 }

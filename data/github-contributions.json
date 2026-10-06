@@ -3,9 +3,45 @@
     "commits": 0,
     "pullRequests": 9,
     "issues": 23,
-    "reviews": 3
+    "reviews": 9
   },
   "contributions": [
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-10-05",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-10-05",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-10-05",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-10-05",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-10-05",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-10-05",
+      "type": "review"
+    },
     {
       "title": "labeled issue: [FEATURE] Transformer-based detection model (BERT / DistilBERT ensemble)",
       "description": "## Description\n\nAdd a transformer-based classifier alongside the current TF-IDF + LogisticRegression model to improve intent detection and generalize ",
@@ -103,49 +139,7 @@
       "date": "2026-10-04",
       "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/265",
       "type": "issue"
-    },
-    {
-      "title": "labeled issue: [FEATURE] Custom rule builder with external rules.yaml configuration",
-      "description": "## Description\n\nLet operators define and manage custom detection rules without changing code, so TENET can be tuned to a specific domain or threat mod",
-      "date": "2026-10-04",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/265",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: [FEATURE] Behavioral analysis engine for multi-turn and coordinated attacks",
-      "description": "## Description\n\nAdd a behavioral analysis engine that tracks per-source activity over time and detects anomalies and coordinated abuse, rather than sc",
-      "date": "2026-10-04",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/262",
-      "type": "issue"
-    },
-    {
-      "title": "opened issue: [FEATURE] Custom rule builder with external rules.yaml configuration",
-      "description": "## Description\n\nLet operators define and manage custom detection rules without changing code, so TENET can be tuned to a specific domain or threat mod",
-      "date": "2026-10-04",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/265",
-      "type": "issue"
-    },
-    {
-      "title": "opened issue: [FEATURE] Behavioral analysis engine for multi-turn and coordinated attacks",
-      "description": "## Description\n\nAdd a behavioral analysis engine that tracks per-source activity over time and detects anomalies and coordinated abuse, rather than sc",
-      "date": "2026-10-04",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/262",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/blender",
-      "description": "Code changes",
-      "date": "2026-10-01",
-      "url": "https://github.com/S3DFX-CYBER/blender",
-      "type": "commit"
-    },
-    {
-      "title": "assigned issue: Merge FAQ with \"New to GSoC? Start here\" into an interactive guide",
-      "description": "## ✨ Feature Request\nDescription: Merge the existing FAQ section with the “New to GSoC? Start here” section into one structured and interactive learni",
-      "date": "2026-09-30",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2085",
-      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-10-05T03:01:54.217Z"
+  "lastUpdated": "2026-10-06T03:51:00.866Z"
 }

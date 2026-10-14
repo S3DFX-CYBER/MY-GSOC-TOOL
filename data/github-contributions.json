@@ -3,9 +3,23 @@
     "commits": 0,
     "pullRequests": 9,
     "issues": 22,
-    "reviews": 14
+    "reviews": 12
   },
   "contributions": [
+    {
+      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-10-11",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-10-11",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "type": "commit"
+    },
     {
       "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
       "description": "Code changes",
@@ -121,20 +135,7 @@
       "description": "Pull request review",
       "date": "2026-10-05",
       "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-10-05",
-      "type": "review"
-    },
-    {
-      "title": "labeled issue: [FEATURE] Transformer-based detection model (BERT / DistilBERT ensemble)",
-      "description": "## Description\n\nAdd a transformer-based classifier alongside the current TF-IDF + LogisticRegression model to improve intent detection and generalize ",
-      "date": "2026-10-04",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/264",
-      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-10-13T04:32:41.305Z"
+  "lastUpdated": "2026-10-14T02:42:16.102Z"
 }

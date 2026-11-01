@@ -1,12 +1,74 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 27,
-    "issues": 10,
-    "reviews": 4
+    "pullRequests": 22,
+    "issues": 6,
+    "reviews": 3
   },
   "contributions": [
     {
+      "title": "closed issue: Add End-to-End Tests for SOC Dashboard and Landing Page",
+      "description": "## 🎭 End-to-End (E2E) Tests\n\n### Description\nImplement end-to-end tests for the SOC Dashboard and landing page using a modern E2E testing framework t",
+      "date": "2026-10-31",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/150",
+      "type": "issue"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-10-31",
+      "type": "review"
+    },
+    {
+      "title": "labeled issue: [BUG] init-firewall.sh fails open on any error before the DROP policies are set, leaving container with full egress",
+      "description": "### Preflight Checklist\n\n- [x] I have searched [existing issues](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20label%",
+      "date": "2026-10-31",
+      "url": "https://github.com/anthropics/claude-code/issues/106426",
+      "type": "issue"
+    },
+    {
+      "title": "opened issue: [BUG] init-firewall.sh fails open on any error before the DROP policies are set, leaving container with full egress",
+      "description": "### Preflight Checklist\n\n- [x] I have searched [existing issues](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20label%",
+      "date": "2026-10-31",
+      "url": "https://github.com/anthropics/claude-code/issues/106426",
+      "type": "issue"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
+      "description": "Code changes",
+      "date": "2026-10-29",
+      "url": "https://github.com/S3DFX-CYBER/Humanoid",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
+      "description": "Code changes",
+      "date": "2026-10-29",
+      "url": "https://github.com/S3DFX-CYBER/Humanoid",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
+      "description": "Code changes",
+      "date": "2026-10-29",
+      "url": "https://github.com/S3DFX-CYBER/Humanoid",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
+      "description": "Code changes",
+      "date": "2026-10-29",
+      "url": "https://github.com/S3DFX-CYBER/Humanoid",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/reap",
+      "description": "Code changes",
+      "date": "2026-10-29",
+      "url": "https://github.com/S3DFX-CYBER/reap",
+      "type": "commit"
+    },
+    {
       "title": "Pushed commits to S3DFX-CYBER/Humanoid",
       "description": "Code changes",
       "date": "2026-10-29",
@@ -70,13 +132,6 @@
       "type": "commit"
     },
     {
-      "title": "Pushed commits to Aditya8369/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/Aditya8369/TENET-AI",
-      "type": "commit"
-    },
-    {
       "title": "Pushed commits to S3DFX-CYBER/Humanoid",
       "description": "Code changes",
       "date": "2026-10-29",
@@ -88,64 +143,8 @@
       "description": "Code changes",
       "date": "2026-10-29",
       "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/Humanoid",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/S3DFX-CYBER/Humanoid",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-10-29",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
       "type": "commit"
     }
   ],
-  "lastUpdated": "2026-10-31T03:16:25.641Z"
+  "lastUpdated": "2026-11-01T03:14:26.346Z"
 }

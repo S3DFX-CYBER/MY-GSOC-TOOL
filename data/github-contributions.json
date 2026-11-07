@@ -2,10 +2,106 @@
   "stats": {
     "commits": 0,
     "pullRequests": 5,
-    "issues": 21,
-    "reviews": 6
+    "issues": 23,
+    "reviews": 8
   },
   "contributions": [
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-06",
+      "type": "review"
+    },
+    {
+      "title": "unlabeled issue: Add Dark Mode Support to Landing Page",
+      "description": "## 🌙 Landing Page Dark Mode\n\n### Description\nAdd dark mode support to the landing page, respecting the user's system preference and providing a manua",
+      "date": "2026-11-06",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/138",
+      "type": "issue"
+    },
+    {
+      "title": "unlabeled issue: [BUG] INCF organization link redirects to GitHub 404 page",
+      "description": "🐛 Bug Description\n\nThe INCF organization card in the AI Recommender section of GSoC 2026 Org Finder contains a link that redirects to a GitHub 404 pa",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2096",
+      "type": "issue"
+    },
+    {
+      "title": "assigned issue: [BUG] INCF organization link redirects to GitHub 404 page",
+      "description": "🐛 Bug Description\n\nThe INCF organization card in the AI Recommender section of GSoC 2026 Org Finder contains a link that redirects to a GitHub 404 pa",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2096",
+      "type": "issue"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-06",
+      "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-06",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-05",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
     {
       "title": "Pushed commits to Blazehue/TENET-AI",
       "description": "Code changes",
@@ -47,100 +143,7 @@
       "date": "2026-11-05",
       "url": "https://github.com/TENET-DEV-AI/TENET-AI",
       "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to Aditya8369/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/Aditya8369/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "unassigned issue: Add Dark Mode Support to Landing Page",
-      "description": "## 🌙 Landing Page Dark Mode\n\n### Description\nAdd dark mode support to the landing page, respecting the user's system preference and providing a manua",
-      "date": "2026-11-05",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/138",
-      "type": "issue"
-    },
-    {
-      "title": "unassigned issue: [FEATURE] Custom rule builder with external rules.yaml configuration",
-      "description": "## Description\n\nLet operators define and manage custom detection rules without changing code, so TENET can be tuned to a specific domain or threat mod",
-      "date": "2026-11-05",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/265",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: [DOCS] Improvise the README",
-      "description": "## Description\nImprovise the content in the readme and update it with the new changes \n\n## Current Content\nCurrently lacking updated info and roadmap ",
-      "date": "2026-11-05",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/287",
-      "type": "issue"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-11-05",
-      "type": "pull_request"
-    },
-    {
-      "title": "labeled PR: undefined",
-      "description": "Pull request",
-      "date": "2026-11-05",
-      "type": "pull_request"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-05",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-05",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-05",
-      "type": "review"
     }
   ],
-  "lastUpdated": "2026-11-06T04:12:19.491Z"
+  "lastUpdated": "2026-11-07T03:44:05.274Z"
 }

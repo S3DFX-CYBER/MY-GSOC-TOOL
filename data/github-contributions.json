@@ -1,94 +1,131 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 5,
-    "issues": 23,
-    "reviews": 8
+    "pullRequests": 8,
+    "issues": 17,
+    "reviews": 9
   },
   "contributions": [
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-06",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-06",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-06",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-06",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-06",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-06",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-06",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "type": "review"
     },
     {
-      "title": "unlabeled issue: Add Dark Mode Support to Landing Page",
-      "description": "## 🌙 Landing Page Dark Mode\n\n### Description\nAdd dark mode support to the landing page, respecting the user's system preference and providing a manua",
-      "date": "2026-11-06",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/138",
-      "type": "issue"
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
+      "description": "Code changes",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
+      "type": "commit"
     },
     {
-      "title": "unlabeled issue: [BUG] INCF organization link redirects to GitHub 404 page",
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "unassigned issue: [BUG] INCF organization link redirects to GitHub 404 page",
       "description": "🐛 Bug Description\n\nThe INCF organization card in the AI Recommender section of GSoC 2026 Org Finder contains a link that redirects to a GitHub 404 pa",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2096",
       "type": "issue"
     },
     {
       "title": "assigned issue: [BUG] INCF organization link redirects to GitHub 404 page",
       "description": "🐛 Bug Description\n\nThe INCF organization card in the AI Recommender section of GSoC 2026 Org Finder contains a link that redirects to a GitHub 404 pa",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2096",
       "type": "issue"
     },
     {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-07",
+      "type": "pull_request"
+    },
+    {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "type": "review"
     },
     {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-07",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-07",
+      "type": "review"
+    },
+    {
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-07",
+      "type": "pull_request"
+    },
+    {
+      "title": "labeled issue: Organisation links: dead repos and dead ideas pages across the org dataset",
+      "description": "## Summary\n\nA full audit of the 184 organisations in `src/js/org.js` / `agent/scripts/orgs.js` (every link requested live on 7 Nov 2026) found a set o",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2099",
+      "type": "issue"
+    },
+    {
+      "title": "opened issue: Organisation links: dead repos and dead ideas pages across the org dataset",
+      "description": "## Summary\n\nA full audit of the 184 organisations in `src/js/org.js` / `agent/scripts/orgs.js` (every link requested live on 7 Nov 2026) found a set o",
+      "date": "2026-11-07",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2099",
+      "type": "issue"
+    },
+    {
+      "title": "closed issue: [Website Bug]: Update links of the BLT project",
+      "description": "### Website or project area\n\nhttps://owasp.org/projects/blt\n\n### Affected URL\n\nhttps://owasp.org/projects/blt\n\n### What is the concern?\n\n<img width=\"1",
+      "date": "2026-11-07",
+      "url": "https://github.com/OWASP-Foundation/owasp-website-issues/issues/159",
+      "type": "issue"
+    },
+    {
       "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
       "description": "Code changes",
       "date": "2026-11-06",
@@ -98,52 +135,10 @@
     {
       "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
       "description": "Code changes",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to Blazehue/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/Blazehue/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-05",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
       "type": "commit"
     }
   ],
-  "lastUpdated": "2026-11-07T03:44:05.274Z"
+  "lastUpdated": "2026-11-08T03:21:55.564Z"
 }

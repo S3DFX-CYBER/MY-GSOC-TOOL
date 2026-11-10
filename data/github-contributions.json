@@ -1,149 +1,150 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 2,
-    "issues": 83,
+    "pullRequests": 1,
+    "issues": 68,
     "reviews": 2
   },
   "contributions": [
     {
       "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
       "description": "Code changes",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
-      "description": "Code changes",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
-      "description": "Code changes",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
-      "description": "Code changes",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
-      "description": "Code changes",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
       "description": "Code changes",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-09",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-09",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-09",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-09",
       "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
       "type": "commit"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "type": "review"
     },
     {
-      "title": "opened PR: undefined",
-      "description": "Pull request",
-      "date": "2026-11-08",
-      "type": "pull_request"
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-09",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     },
     {
-      "title": "closed issue: [FEATURE] Add \"Copy Org Name\" Button to Organization Cards",
-      "description": "Hi @S3DFX-CYBER ,\n\nI noticed that when browsing organizations, finding one I like requires manually selecting and copying the name to search for it on",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1759",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
+      "date": "2026-11-09",
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
+    },
+    {
+      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
+      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
       "type": "issue"
     },
     {
-      "title": "closed issue: [UI/UX Enhancement]: Implement a dynamic \"Scroll to Top\" floating button for easier navigation",
-      "description": "### Description\nThe platform currently loads up to 184 GSoC organizations on a single page. When a user scrolls deep into the results to explore diffe",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1620",
+      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
+      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
       "type": "issue"
     },
     {
-      "title": "closed issue: Improve README setup instructions for beginners",
-      "description": "## Reproduction Steps\n\n1. Open the repository README file\n2. Follow the current setup instructions\n3. Observe that some steps are unclear for beginner",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1707",
+      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
+      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
       "type": "issue"
     },
     {
-      "title": "closed issue: Feature: to add pagination to the mentor finder",
-      "description": "Hi,\n\nAdd pagination functionality to the mentor finding list page so that mentors are displayed in multiple pages instead of loading all mentor profil",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1534",
+      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
+      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
       "type": "issue"
     },
     {
-      "title": "closed issue: Add a \"Share / Copy to Clipboard\" button for organization cards",
-      "description": "## ✨ Feature Request\n\n### Description\nAdd a \"Share\" or \"Copy to Clipboard\" button to each organization card so users can easily share specific organiz",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1524",
+      "title": "opened issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
+      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
       "type": "issue"
     },
     {
-      "title": "closed issue: Improve Loading Experience with Skeleton Loaders and Better Error/Empty States Across Data-Driven Sections",
-      "description": "Title: Improve Loading Experience with Skeleton Loaders and Better Error/Empty States Across Data-Driven Sections\n\n## Problem\nSome sections of the web",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1375",
+      "title": "opened issue: [BUG] Publish API Docs workflow fails on every push to main",
+      "description": "## Description\n\nThe `Publish API Docs` workflow (`.github/workflows/publish-doc.yml`) fails on **every push to `main`**. The failing step is **Install",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/315",
       "type": "issue"
     },
     {
-      "title": "closed issue: Add Loading Skeletons for Better User Experience",
-      "description": "## ✨ Feature Request\n\n### Description\n\nI would like to add loading skeletons/shimmer placeholders while organization cards and GitHub-related data are",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1226",
+      "title": "opened issue: [FEATURE] Agent action monitoring: interposition layer (LLM proxy + MCP gateway)",
+      "description": "## Description\n\nAdd a framework-agnostic **interposition layer** that intercepts agent tool calls *before* execution and normalises them into a single",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/311",
       "type": "issue"
     },
     {
-      "title": "closed issue: Enhancement: Add one-click copy button for organization information (name, description, and URL)",
-      "description": "**Description**\n\nCurrently, users manually select and copy organization details from the UI, which is inconvenient and time-consuming.\n\nTo improve usa",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1210",
+      "title": "opened issue: [BUG] Vercel preview deployment fails on contributor PRs",
+      "description": "## Description\n\nThe `Vercel` status check fails on **every human/contributor PR** (including a README-only change, #290) but succeeds on Dependabot PR",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/310",
       "type": "issue"
     },
     {
-      "title": "closed issue: #Feature Request",
-      "description": "\n**Description:**\n\nI am writing to propose a series of enhancements aimed at improving the project's utility for contributors, specifically students p",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1165",
+      "title": "labeled issue: [BUG] TENET Security Review check fails on all contributor PRs",
+      "description": "## Description\n\nThe `TENET Security Review` check fails on **every contributor PR** (observed on #289, #277, #286, #299) while passing/skipping on Dep",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/312",
       "type": "issue"
     },
     {
-      "title": "closed issue: User Authentication & Persistent Wishlist",
-      "description": "## ✨ Feature Request\n\n### Description\n\nAdd user authentication and a persistent wishlist/favorites system so users can save organizations they are int",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1119",
+      "title": "labeled issue: [BUG] Publish API Docs workflow fails on every push to main",
+      "description": "## Description\n\nThe `Publish API Docs` workflow (`.github/workflows/publish-doc.yml`) fails on **every push to `main`**. The failing step is **Install",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/315",
       "type": "issue"
     },
     {
-      "title": "closed issue: Recently Viewed / Recommended Organizations Panel",
-      "description": "Users currently do not have a way to quickly revisit organizations they recently explored or discover organizations based on their browsing history. A",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1108",
-      "type": "issue"
-    },
-    {
-      "title": "closed issue: Add Project View Count Feature",
-      "description": "Currently, users cannot track how many times a project has been viewed by other users. Adding a project view counter will help project owners understa",
-      "date": "2026-11-08",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/1103",
+      "title": "labeled issue: [BUG] TENET Security Review check fails on all contributor PRs",
+      "description": "## Description\n\nThe `TENET Security Review` check fails on **every contributor PR** (observed on #289, #277, #286, #299) while passing/skipping on Dep",
+      "date": "2026-11-09",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/312",
       "type": "issue"
     }
   ],
-  "lastUpdated": "2026-11-09T03:40:41.426Z"
+  "lastUpdated": "2026-11-10T05:13:26.168Z"
 }

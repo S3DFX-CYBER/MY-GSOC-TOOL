@@ -1,57 +1,76 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 1,
-    "issues": 68,
-    "reviews": 2
+    "pullRequests": 8,
+    "issues": 46,
+    "reviews": 6
   },
   "contributions": [
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-09",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-10",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-09",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-10",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-09",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-10",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-09",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-10",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-09",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-10",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
-      "description": "Code changes",
-      "date": "2026-11-09",
-      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
-      "type": "commit"
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-10",
+      "type": "pull_request"
+    },
+    {
+      "title": "assigned issue: [FEATURE] Action governance: tamper-evident ledger + policy engine with approval gates",
+      "description": "## Description\n\nBuild the governance layer on top of action interception: a **tamper-evident action ledger** plus a **policy engine** that can allow, ",
+      "date": "2026-11-10",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/313",
+      "type": "issue"
     },
     {
       "title": "Reviewed PR: undefined",
       "description": "Pull request review",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-10",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-10",
+      "type": "review"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-10",
       "type": "review"
     },
     {
@@ -69,82 +88,54 @@
       "type": "commit"
     },
     {
-      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
-      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
       "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
-      "type": "issue"
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     },
     {
-      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
-      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
       "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
-      "type": "issue"
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     },
     {
-      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
-      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
       "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
-      "type": "issue"
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     },
     {
-      "title": "labeled issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
-      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
       "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
-      "type": "issue"
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     },
     {
-      "title": "opened issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
-      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
       "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
-      "type": "issue"
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     },
     {
-      "title": "opened issue: [BUG] Publish API Docs workflow fails on every push to main",
-      "description": "## Description\n\nThe `Publish API Docs` workflow (`.github/workflows/publish-doc.yml`) fails on **every push to `main`**. The failing step is **Install",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
       "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/315",
-      "type": "issue"
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     },
     {
-      "title": "opened issue: [FEATURE] Agent action monitoring: interposition layer (LLM proxy + MCP gateway)",
-      "description": "## Description\n\nAdd a framework-agnostic **interposition layer** that intercepts agent tool calls *before* execution and normalises them into a single",
+      "title": "Pushed commits to S3DFX-CYBER/cve-lite-cli",
+      "description": "Code changes",
       "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/311",
-      "type": "issue"
-    },
-    {
-      "title": "opened issue: [BUG] Vercel preview deployment fails on contributor PRs",
-      "description": "## Description\n\nThe `Vercel` status check fails on **every human/contributor PR** (including a README-only change, #290) but succeeds on Dependabot PR",
-      "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/310",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: [BUG] TENET Security Review check fails on all contributor PRs",
-      "description": "## Description\n\nThe `TENET Security Review` check fails on **every contributor PR** (observed on #289, #277, #286, #299) while passing/skipping on Dep",
-      "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/312",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: [BUG] Publish API Docs workflow fails on every push to main",
-      "description": "## Description\n\nThe `Publish API Docs` workflow (`.github/workflows/publish-doc.yml`) fails on **every push to `main`**. The failing step is **Install",
-      "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/315",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: [BUG] TENET Security Review check fails on all contributor PRs",
-      "description": "## Description\n\nThe `TENET Security Review` check fails on **every contributor PR** (observed on #289, #277, #286, #299) while passing/skipping on Dep",
-      "date": "2026-11-09",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/312",
-      "type": "issue"
+      "url": "https://github.com/S3DFX-CYBER/cve-lite-cli",
+      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-11-10T05:13:26.168Z"
+  "lastUpdated": "2026-11-11T03:45:34.871Z"
 }

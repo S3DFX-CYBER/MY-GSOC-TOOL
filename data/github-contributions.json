@@ -1,151 +1,138 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 0,
-    "issues": 0,
-    "reviews": 0
+    "pullRequests": 10,
+    "issues": 11,
+    "reviews": 5
   },
   "contributions": [
     {
       "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
       "description": "Code changes",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
       "description": "Code changes",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
       "description": "Code changes",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
       "description": "Code changes",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
       "description": "Code changes",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "labeled PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "closed issue: [BUG] Vercel preview deployment fails on contributor PRs",
+      "description": "## Description\n\nThe `Vercel` status check fails on **every human/contributor PR** (including a README-only change, #290) but succeeds on Dependabot PR",
+      "date": "2026-11-12",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/310",
+      "type": "issue"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-12",
+      "type": "pull_request"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "opened issue: chore(tests): add a root conftest.py so 'services' imports resolve in CI",
+      "description": "## Description\n\nNew tests that import the `services` package fail to collect in CI:\n\n```\nModuleNotFoundError: No module named 'services'\n```\n\nSeen on ",
+      "date": "2026-11-12",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/320",
+      "type": "issue"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-12",
+      "type": "review"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-12",
+      "type": "review"
     },
     {
-      "title": "Pushed commits to S3DFX-CYBER/S3DFX-CYBER",
-      "description": "Code changes",
-      "date": "2026-11-10",
-      "url": "https://github.com/S3DFX-CYBER/S3DFX-CYBER",
-      "type": "commit"
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-12",
+      "type": "review"
     }
   ],
-  "lastUpdated": "2026-11-12T04:54:02.056Z"
+  "lastUpdated": "2026-11-13T04:05:38.450Z"
 }

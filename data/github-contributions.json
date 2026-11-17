@@ -2,7 +2,7 @@
   "stats": {
     "commits": 0,
     "pullRequests": 16,
-    "issues": 20,
+    "issues": 19,
     "reviews": 6
   },
   "contributions": [
@@ -37,6 +37,13 @@
       "description": "Pull request review",
       "date": "2026-11-14",
       "type": "review"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
+      "description": "Code changes",
+      "date": "2026-11-13",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
+      "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
@@ -134,14 +141,7 @@
       "date": "2026-11-13",
       "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/265",
       "type": "issue"
-    },
-    {
-      "title": "assigned issue: [BUG] Publish API Docs workflow fails on every push to main",
-      "description": "## Description\n\nThe `Publish API Docs` workflow (`.github/workflows/publish-doc.yml`) fails on **every push to `main`**. The failing step is **Install",
-      "date": "2026-11-13",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/315",
-      "type": "issue"
     }
   ],
-  "lastUpdated": "2026-11-16T03:49:25.510Z"
+  "lastUpdated": "2026-11-17T05:43:07.399Z"
 }

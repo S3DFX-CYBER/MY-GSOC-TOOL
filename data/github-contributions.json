@@ -1,143 +1,145 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 15,
-    "issues": 2,
-    "reviews": 7
+    "pullRequests": 7,
+    "issues": 7,
+    "reviews": 8
   },
   "contributions": [
     {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-22",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-22",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-22",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-22",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-22",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-22",
-      "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-11-22",
-      "type": "review"
+      "title": "Pushed commits to Subodh-17/TENET-AI",
+      "description": "Code changes",
+      "date": "2026-11-23",
+      "url": "https://github.com/Subodh-17/TENET-AI",
+      "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-22",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-21",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-20",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
-      "description": "Code changes",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
       "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
       "description": "Code changes",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
       "type": "commit"
     },
     {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-20",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
+      "title": "assigned issue: [FEATURE] Integrate Jev (System One decision model) as a zero-shot classifier backend",
+      "description": "## Description\n\nAdd **Jev** (TypeSafe AI's \"System One\" typed-decision model) as a zero-shot classification backend for the analyzer, so TENET can cla",
+      "date": "2026-11-23",
+      "url": "https://github.com/TENET-DEV-AI/TENET-AI/issues/316",
+      "type": "issue"
     },
     {
-      "title": "Pushed commits to TENET-DEV-AI/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-20",
-      "url": "https://github.com/TENET-DEV-AI/TENET-AI",
-      "type": "commit"
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-23",
+      "type": "pull_request"
     },
     {
       "title": "opened PR: undefined",
       "description": "Pull request",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "type": "pull_request"
+    },
+    {
+      "title": "closed issue: [BUG] : \"Load Issues\" button exhausts GitHub's shared Search API quota in a single click, breaking GitHub-powered features site-wide for all users",
+      "description": "## 🐛 Bug Report\n\n### Description\n`fetchAllIssues()` in `src/js/app.js` (triggered by the \"Load Issues\" button on the\nIssues tab) loops over every org",
+      "date": "2026-11-23",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2081",
+      "type": "issue"
+    },
+    {
+      "title": "closed issue: Merge FAQ with \"New to GSoC? Start here\" into an interactive guide",
+      "description": "## ✨ Feature Request\nDescription: Merge the existing FAQ section with the “New to GSoC? Start here” section into one structured and interactive learni",
+      "date": "2026-11-23",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2085",
+      "type": "issue"
+    },
+    {
+      "title": "closed issue: Security: pin the Tailwind Play CDN to an immutable versioned URL",
+      "description": "## Summary\n\n`index.html`, `landing.html` and `privacy.html` load the Tailwind Play CDN from the unversioned URL `https://cdn.tailwindcss.com`. That UR",
+      "date": "2026-11-23",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2092",
+      "type": "issue"
+    },
+    {
+      "title": "closed issue: Security: harden api/github.js (rate limiting, error leakage) and add a Content-Security-Policy",
+      "description": "## Summary\n\nThree hardening gaps in the API layer and the response headers:\n\n1. **No rate limiting on `api/github.js`.** The endpoint is unauthenticat",
+      "date": "2026-11-23",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2094",
+      "type": "issue"
+    },
+    {
+      "title": "closed issue: feat: port the 2027 redesign handoff into the live landing and app pages",
+      "description": "## Summary\n\nTrack the work of bringing the 2027 redesign handoff (two standalone HTML mockups) into the repo as real, data-connected pages.\n\n**Referen",
+      "date": "2026-11-23",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2105",
+      "type": "issue"
+    },
+    {
+      "title": "merged PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-23",
+      "type": "pull_request"
+    },
+    {
+      "title": "opened PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-23",
+      "type": "pull_request"
+    },
+    {
+      "title": "closed PR: undefined",
+      "description": "Pull request",
+      "date": "2026-11-23",
+      "type": "pull_request"
+    },
+    {
+      "title": "Reviewed PR: undefined",
+      "description": "Pull request review",
+      "date": "2026-11-23",
+      "type": "review"
     }
   ],
-  "lastUpdated": "2026-11-23T04:45:02.626Z"
+  "lastUpdated": "2026-11-24T07:35:47.727Z"
 }

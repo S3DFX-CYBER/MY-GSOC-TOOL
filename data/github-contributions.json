@@ -9,6 +9,40 @@
     {
       "title": "opened PR: undefined",
       "description": "Pull request",
+      "date": "2026-11-25",
+      "type": "pull_request"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/Claude-Skills-Security",
+      "description": "Code changes",
+      "date": "2026-11-24",
+      "url": "https://github.com/S3DFX-CYBER/Claude-Skills-Security",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
+      "description": "Code changes",
+      "date": "2026-11-24",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
+      "description": "Code changes",
+      "date": "2026-11-24",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
+      "type": "commit"
+    },
+    {
+      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
+      "description": "Code changes",
+      "date": "2026-11-24",
+      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
+      "type": "commit"
+    },
+    {
+      "title": "opened PR: undefined",
+      "description": "Pull request",
       "date": "2026-11-24",
       "type": "pull_request"
     },
@@ -102,42 +136,7 @@
       "description": "Pull request",
       "date": "2026-11-24",
       "type": "pull_request"
-    },
-    {
-      "title": "opened issue: chore: make the issue and pull request formats match the contribution rules",
-      "description": "The templates and the rules have drifted apart.\n\n**Pull request template**\n- It asks for a *Program Classification* (GSSoC26 / NSoC26 / General), whic",
-      "date": "2026-11-24",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2110",
-      "type": "issue"
-    },
-    {
-      "title": "labeled issue: chore: make the issue and pull request formats match the contribution rules",
-      "description": "The templates and the rules have drifted apart.\n\n**Pull request template**\n- It asks for a *Program Classification* (GSSoC26 / NSoC26 / General), whic",
-      "date": "2026-11-24",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC/issues/2110",
-      "type": "issue"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
-      "description": "Code changes",
-      "date": "2026-11-23",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to Subodh-17/TENET-AI",
-      "description": "Code changes",
-      "date": "2026-11-23",
-      "url": "https://github.com/Subodh-17/TENET-AI",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to S3DFX-CYBER/FindMyGSoC",
-      "description": "Code changes",
-      "date": "2026-11-23",
-      "url": "https://github.com/S3DFX-CYBER/FindMyGSoC",
-      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-11-25T06:03:53.448Z"
+  "lastUpdated": "2026-11-26T05:57:26.001Z"
 }
